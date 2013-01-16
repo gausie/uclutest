@@ -4,376 +4,521 @@
 
 1. UCLU is a Company limited by Guarantee.
 
-2. Words and phrases used in these Byelaws have the meanings as ascribed to them in the Union Memorandum and Articles.
+2. Words and phrases used in these Bye-Laws have the meanings as ascribed to them in the Memorandum and Articles of the Union.
 
-3. The Memorandum and Articles of the Union shall take precedence over these Byelaws and these Byelaws shall not be interpreted or applied in any way that is inconsistent with the Memorandum and Articles of the Union.
+3. The Memorandum and Articles of the Union shall take precedence over these Bye-Laws and these Bye-Laws shall not be interpreted or applied in any way that is inconsistent with the Memorandum and Articles of the Union.
 
-4. These Byelaws may be amended by Union members through a meeting of Union Council or a Members' Meeting, in accordance with the relevant sections in these Byelaws, via a special resolution with a 75% majority vote.
+4. In the case of confusion or contradiction in these Bye-Laws, the Steering Committee shall have power to interpret their wording.
 
-	1. Amendments to the Byelaws must be submitted to the Democracy and Communications Officer 10 working days before the meeting they are to be heard at, and displayed on the Union website within 1 working day of their submission.
+5. These Bye-Laws may be amended by the Union Council or a General Assembly, in accordance with the relevant sections in these Bye-Laws, via a special resolution with a 75% majority vote.
 
-		1. The amendments must be supported by a proposer and a seconder, both of whom must be members of the Union.
+	1. Amendments to the Bye-Laws must be submitted to the Democracy and Communications Officer 10 working days before the meeting they are to be heard at, and displayed on the Union website within 1 working day of their submission.
 
-	2. They may also be altered by a 75% majority vote of a quorate Referendum, with method of submission and display the same as for a Members' Meeting.
+	2. They may also be altered by a 75% majority vote of a Referendum, with method of submission and display the same as for a General Assembly.
 
-5. Rules and provisions made in UCLU Guidance Documents carry the same weight as rules contained within the Byelaws themselves. Changes to Guidance Documents remain the authority of the relevant body as detailed in the Byelaws.
+	3. The Union Council and General Assemblies may suspend any given section of the Bye-Laws on an emergency basis by a 75% majority if they deem that
 
-	1. They shall exist as appendices of the Byelaws.
+		1. Certain Bye-Laws contradict each other; or
 
-	2. Guidance Documents applying to areas other than Forums shall require a 75% majority vote of Union Council to be changed.
+		2. Certain Bye-Laws are being, or are in imminent danger of being, abused and such a suspension is necessary to uphold the proper democratic process
 
-	3. Changes to the Guidance Documents applying to Forums must be approved by 75% of a quorate Forum followed by 75% of a quorate Union Council meeting.
+6. Rules and provisions made in Guidance Documents carry the same weight as rules contained within the Bye-Laws themselves.
 
-6. UCLU is fully committed to equal opportunities and will strive to ensure that no member or member of staff is subject to discrimination in any form. Wherever necessary use will be made of lawful exemptions to cater for special needs of particular groups. All officers should strive to ensure equal opportunities within their remit. All meetings must be accessible to all members, that includes venues and papers.
+	1. Guidance Documents shall exist as appendices of the Bye-Laws.
 
-7. UCLU may affiliate to any external organisation provided that such affiliations do not violate relevant law or the Memorandum and Articles or Bye- Laws of UCLU. All affiliations shall be posted on the website and approved at the Annual Members Meeting or Council should this meeting not be quorate. Any new affiliation to, or disaffiliation from, a political or other sectarian organisation shall require a majority vote on a motion put to a Members' Meeting or Referendum. Current affiliations shall continue indefinitely subject to annual approval at a Members' Meeting in line with the previous Byelaw.
+	2. Guidance Documents shall require a 75% majority vote at Union Council or a General Assembly to be created or changed.
 
-8. The Union shall publish an annual report for submission at a Union Council. It will then be submitted to the UCL Council before its last meeting of the session.
+	3. Rules and provisions made in a Guidance Document shall not be considered to lapse unless the Guidance Document specifies that they shall, or they are replaced or superseded in a later Guidance Document.
 
-9. The Union shall observe the UCL Code of Practice on Freedom of Speech.
+7. UCLU is fully committed to equal opportunities and will strive to ensure that no member or member of staff is subject to discrimination in any form. Wherever necessary use will be made of lawful exemptions to cater for special needs of particular groups. All officers should strive to ensure equal opportunities within their remit. All meetings must be accessible to all members, that includes venues and papers.
+
+8. UCLU may affiliate to any external organisation provided that such affiliations do not violate relevant law or the Memorandum and Articles or Bye- Laws of UCLU. All affiliations shall be posted on the website and approved at the Annual General Assembly or Council should this meeting not be quorate. Any new affiliation to, or disaffiliation from, a political or other sectarian organisation shall require a majority vote on a motion put to a General Assembly or Referendum. Current affiliations shall continue indefinitely subject to annual approval at a General Assembly in line with the previous Bye-Law.
+
+9. The Union shall publish an annual report for submission at a Union Council. It will then be submitted to the UCL Council before its last meeting of the session.
+
+10. The Union shall observe the UCL Code of Practice on Freedom of Speech.
 
 ##Section 2 - Membership
 
-1. All UCL students are automatically members of UCLU.
+1. All UCL students are automatically members of UCLU unless they withdraw.
 
 2. Regulations of membership shall be as stated in the Memorandum and Articles of the Union.
 
-3. Membership fees for associate and visiting members shall be set by Union Council each year.
+3. Membership fees for associate and visiting members shall be set by Union Council.
 
 4. Students may withdraw their membership of the Union by informing the Democracy and Communications Officer in writing. Students that withdraw their membership are not able to take part in the democratic processes of the Union, but retain their right to access non-grant aided facilities and the UCLU Rights and Advice Centre.
 
-	1. They may still join Clubs and Societies once the relevant associate member fee has been paid.
+	1. They may still join Clubs & Societies once the relevant associate member fee has been paid.
 
-		1. They may not hold an elected position within that club or society or vote in such elections.
+	2. They may not hold an elected position within a club or society; nor vote in a club or society elections.
 
-	2. They may not hold an elected position in the Union or vote in such elections.
+##Section 3 - Faculty & Halls Assemblies, Networks and Autonomous Sections
 
-##Section 3 - Union Forums
+### Faculty and Halls Assemblies
 
-1. Forums are defined as platforms for discussion at which all members of UCLU are able to come together for the following purposes and duties:
+1. Faculty Assemblies and Halls Assemblies shall be open meetings to enable the students of a particular Faculty or Halls to:
 
-	1. To direct the Union's policy and campaigning activity.
+	1. Organise and coordinate campaigning relating to their Faculty or Halls,
 
-	2. To involve students in driving change.
+	2. Raise issues affecting them as a member of their Faculty or Halls,
 
-	3. To provide an opportunity for all students to propose and be included in discussion that directs the activity of the Union.
+	3. Ask questions of, and hear reports from, their Faculty or Halls Representative.
 
-	4. To promote the views of the students they represent.
+	4. Instruct their Faculty or Halls Representative(s).
 
-2. Forums shall work within their Guidance Document and will be guided by the Chair, who shall sit on Union Council.
+	5. Recall their Faculty or Halls Representative(s) as described elsewhere in the Bye-Laws
 
-	1. There is one Guidance Document for each Forum that sets out the terms of reference and the manner in which a Forum is run
+2. Faculty Representatives shall be responsible for organising and facilitating Faculty Assemblies, and shall ensure that a record is made of the discussions and action points. The Education and Campaigns Officer shall help and advise Faculty Representatives in this task.
 
-	2. Forum Guidance Documents shall exist as an appendix of the Union Byelaws
+3. Halls Representatives shall be responsible for organising and facilitating Halls Assemblies, and shall ensure that a record is made of the discussions and action points. The Welfare and International Officer and the Halls Accommodation Officer shall help and advise Halls Representatives in this task.
 
-	3. Forum Guidance Documents may be changed by a 75% majority vote at a quorate Forum followed by a 75% majority vote at a meeting of Union Council
+4. A Faculty Assembly may be called by any Faculty Representative or the Education and Campaigns Officer . The Faculty Representatives in a particular faculty must call a Faculty Assembly within five working days of a request from at least 5 students of their Faculty.
 
-3. Forums may convene a governing committee of the Forum with positions related to the Forums areas of work. The terms of reference of this committee must be set out in their Guidance Document
+5. A Halls Assembly may be called by any Halls Representative, the Welfare and International Officer or the Halls Accommodation Officer. A Halls Representative must call a Halls Assembly within five working days of a request from at least 5 students from their Halls.
 
-###Procedures
+6. The Union Chair may call and chair Halls Assemblies or Faculty Assemblies on receipt of a valid motion to recall a Halls Rep or Faculty Rep as described elsewhere in the Bye-Laws.
 
-4. Forums shall be convened at least twice a term by the Chair, with an agenda advertised at least 3 working days in advance of the meetings.
+7. Faculty Assemblies may include all students within a Faculty, or alternatively issues affecting undergraduates, taught postgraduates and research postgraduates may be addressed in specific Faculty Assemblies for specific groups.
 
-5. Agenda items may be submitted to the Chair by any member of the Union.
+### Networks
 
-	1. If an indicative vote is required then the agenda item must be submitted to the Chair 4 working days in advance of the meeting and with supporting paper work if appropriate.
+8. Networks shall exist to allow groups of Officers and members to meet to share information and to coordinate and plan the implementation of relevant policies and democratic decisions.
 
-	2. If the issue is just for discussion then it may be submitted to the Chair at any point before the start of the meeting and it will be added to the end of the agenda.
+9. For the avoidance of doubt, the Women's Network shall be governed by the Bye-Laws relating to Autonomous Sections, not Networks. It is referred to as a Network only due to tradition.
 
-	3. If changes to the Guidance Document are being proposed, the amended document must be submitted to the Democracy and Communications Officer 10 working days before the meeting is it is due to be discussed at, to be listed on the Union website within 1 working day of submission.
+10. Networks shall report their activities to the Union Executive Committee, and remain accountable to the Union Executive Committee for the implementation of relevant Policy.
 
-		1. It must be signed by a proposer and a seconder, both of whom must be members of the Union.
+11. Accommodation Network
 
-6. Forum Chairs are charged with ensuring the meeting runs smoothly and fairly. They retain the rights of the Union Chair as set out in the Byelaws for Union Council.
+	1. All Halls Representatives, the Halls Accommodation Officer, the External Accommodation Officer and the Welfare & International Officer shall attend Accommodation Network meetings, which shall also be open to all students.
 
-7. There shall be no quoracy for Forums unless they are voting on Forum policy or changes to the Guidance Documents, for which quoracy shall be 25 Union members.
+	2. The purposes of Accommodation Network meetings shall be:
 
-8. Forum Chairs shall ensure accurate notes are kept on the proceedings of their Forum, which must be made available to the student body through the Union website within 5 working days of the meeting.
+		1. To enable members and officers to share information and raise issues relating to student accommodation
 
-9. With regards to room bookings, health and safety and other such matters, Forums shall follow the same processes as Clubs and Societies, with the Chair taking the responsibilities of the President and their lead Sabbatical Officer taking on the role of treasurer.
+		2. To enable members and officers to organise and coordinate campaigning relating to student accommodation
 
-###Forums
+	3. Accommodation Network meetings shall be called by the Welfare & International Officer as needed, and in any case at least once per term.
 
-10. Forums are:
+12. Education and Welfare Network
 
-	1. Activities Forum
+	1. All Faculty Representatives, the Education and Campaigns Officer and the Welfare & International Officer shall attend Education and Welfare Network meetings, which shall also be open to all students. The Education and Campaigns Officer shall also specifically contact course and departmental student representatives to invite them to attend each meeting.
 
-		1. Chaired by Activities Officer, who shall be a member of a UCLU Club or Society at the time of election.
+	2. The purposes of Education and Welfare Network meetings shall be:
 
-		2. Student Activities Officer shall be the lead Sabbatical Officer of the Forum.
+		1. To enable officers and members to share information and raise academic and welfare issues.
 
-		3. Shall be a Forum for UCLU members to direct the Union's Clubs and Societies' activity, providing a Forum for members to share information, raise matters of concern and drive the activities forward in the best interests of UCLU members.
+		2. To organise and coordinate campaigning relating to academic and welfare issues.
 
-		4. Officers within the Forum shall include Arts Officer, Sports Officer and Societies Officer.
+	3. Education and Welfare Network meetings shall be called by the Education and Campaigns Officer as needed, and in any case at least once per term.
 
-	2. Community Forum
+13. Activities Network
 
-		1. Chaired by Community Officer.
+	1. The remit of Activities Network shall be the Union's Clubs and Societies', charitable fund-raising, and volunteering activities.
 
-		2. Democracy and Communications Officer shall be the lead Sabbatical Officer of the Forum
+	2. The purposes of Activities Network shall be:
 
-		3. Shall be a Forum for UCLU members to drive the Union's activities in the local community; volunteering, student safety, local democratic representation and student engagement in the community.
+		1. To direct the Unions' Clubs and Societies', charitable fund-raising and volunteering activity in a manner consistent with the Union's Memorandum and Articles, Bye-Laws and Policy
 
-		4. Officers within the Forum shall include Halls Reps, Volunteering Officer and RAG Officer.
+		2. To enable members and officers to share information and raise issues related to its remit
 
-	3. Education Forum
+		3. To produce policy recommendations related to its remit
 
-		1. Chaired by Education Officer.
+		4. To receive Activities Network Executive's reports and hold it to account
 
-		2. Education and Campaigns Officer shall be the lead Sabbatical Officer of the Forum.
+	3. Activities Network shall be responsible for proposing to Union Council any Guidance Documents it deems necessary to govern its remit, meetings, officers and elections.
 
-		3. Shall be a Forum for UCLU members to direct the Union's priorities surrounding UCL students' education.
+	4. Activities Network meetings shall be open to all members.
 
-		4. Officers within the Forum shall include 50 Faculty Reps (divided amongst the Faculties in accordance with the Bye-Laws on elections), Part-Time Students' Officer, and Mature Students' Officer.
+	5. Activities Network meetings shall be called by the Activities and Events Officer or the Activities Officer as needed, and in any case at least twice per term.
 
-	4. Equality Forum
+	6. Activities Network meetings shall elect officers in October whose terms shall last one year or until the next election, whichever is shorter. At least 25 members must be present for an election, by-election or recall to be valid. These officers shall include:
 
-		1. Chaired by Equality Officer.
+		1. Arts Societies Officer
 
-		2. Welfare and International Officer shall be the lead Sabbatical Officer of the Forum.
+		2. Sports Clubs Officer
 
-		3. Shall be a Forum for UCLU members to ensure all Union activities are providing equality of opportunity and that the Union is representing its students on issues that UCL students feel violate equal opportunities.
+		3. Volunteering Officer
 
-		4. Officers within the Forum shall include Disabled Students' Officer, Students of Faith Officer, Black & Minority Ethnic Students' Officer.
+		4. General Interest Societies Officer
 
-	5. Ethics and Environment Forum
+		5. RAG Officer
 
-		1. Chaired by Ethics and Environment Officer.
+	7. Activities Network Executive shall be a committee of elected officers that is responsible for driving activity between Activities Network meetings, to be called when required by the Activities Officer or Activities and Events Officer. It shall be attended by relevant staff. Activities Network Executive shall report to each Activities Network meeting, which may choose to refer its actions and decisions to UCLU Council.
 
-		2. Ethics, Environment and Operations Officer shall be the lead Sabbatical Officer of the Forum.
+	8. Activities Network Executive shall include the following members:
 
-		3. Shall be a Forum for UCLU members to drive forward the Union's ethical and environmental policies and priorities, as well as ensure UCLU acts in an ethically and environmentally sound manner.
+		1. Activities Officer (Chair)
 
-	6. International Students' Forum
+		2. Activities and Events Officer
 
-		1. Chaired by International Students Officer, who shall be an international student.
+		3. All officers elected by Activities Network meetings
 
-		2. Welfare and International Officer shall be the lead Sabbatical Officer of the Forum.
+		4. One officer elected by RUMS
 
-		3. Shall be a Forum for UCLU members to discuss and direct policy on issues affecting international students at UCL.
+		5. One officer elected by the Postgraduate Association
 
-	7. LGBT+ Forum
+	9. Activities Network Executive shall be responsible for decisions related to Club and Society affiliation, disaffiliation, and disciplinary matters.
 
-		1. Chaired by LGBT+ Officer, who shall define as Lesbian, Gay, Bisexual, Trans* and/or any other gender/sexual minority including but not limited to Asexual spectrum, Queer, Intersex.
+### Autonomous Sections
 
-		2. Welfare and International Officer shall be the lead Sabbatical Officer of the Forum.
+14. Autonomous Sections are organisations that exist to represent and serve particular groups of members.
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting the LGBT+ community at UCL, as well as the Union's policy and priorities that affect LGBT+ students.
+15. There shall be two types of Autonomous Sections: Liberation Sections and Academic Sections.
 
-	8. PGA Forum
+16. Activities in which Autonomous Sections may engage in pursuit of their objectives include but are not limited to:
 
-		1. Chaired by Postgraduate Students' Officer, who shall be a UCL postgraduate student.
+	1. Campaigning.
 
-		2. Medical and Postgraduate Students' Officer shall be the lead Sabbatical Officer of the Forum.
+	2. Representing their members within UCLU.
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting postgraduate students and develop policy to direct the Union's representation of UCL postgraduate students.
+	3. Representing their members in relevant UCL committees.
 
-	9. RUMS Forum
+	4. Representing their members to relevant external student organisations such as NUS.
 
-		1. Chaired by RUMS Officer, who shall be a UCL medical student.
+	5. Organising services and social, academic, cultural and athletic activities targeted specifically at their members.
 
-		2. Medical and Postgraduate Students' Officer shall be the lead Sabbatical Officer of the Forum.
+#### Governance of Autonomous Sections
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting medical students and develop policy to direct the Union's representation of UCL medical students.
+17. Each Autonomous Section and its Officers and meetings (including matters of quorum and procedures for constitutional amendments) shall be governed by a Constitution, subject to any requirements in the Bye-Laws.
 
-	10. School of Pharmacy Forum
+	1. With the permission of an Autonomous Section's Convenor or Autonomous Section's Executive Committee, Union Council may amend or create that Autonomous Section's Constitution by a two-thirds majority vote.
 
-		1. Chaired by SOP officer, who shall be a UCL School of Pharmacy student
+	2. If an Autonomous Section lacks a procedure for creating or amending its Constitution, a two-thirds majority vote of a quorate, advertised open meeting attended by at least 25 of its members shall be sufficient.
 
-		2. Medical and Postgraduates' Officer shall be the lead Sabbatical Officer of the Forum
+	3. Union Council may overrule amendments to Autonomous Sections' constitutions via a two-thirds majority vote.
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting SOP students and develop policy to direct the Union's representation of UCL SOP students.
+18. Each Autonomous Section shall hold democratic open meetings at which its members can discuss relevant issues, set the Autonomous Section's policy, and direct the Autonomous Section's officers.
 
-	11. Student Media Forum
+19. Each Autonomous Section shall be coordinated by its Convenor with the support of the assisting Sabbatical Officer, both to be specified elsewhere in the Bye-Laws. The assisting Sabbatical Officer shall attend open meetings and Autonomous Section Executive Committee meetings and assist the Autonomous Section as required by its Officers and Constitution. Where the Convenor is a Sabbatical Officer, an additional assisting Sabbatical Officer shall not be required.
 
-		1. Chaired by Media Officer, who shall be a member of a UCLU Media Society at the time of election.
+20. A Constitution may define additional elected officers within the Autonomous Section. It must specify their responsibilities as well as mechanisms for their election and for their recall for any reason. These officers shall, along with the Convenor and any ex officio positions specified in the Autonomous Section's Constitution, constitute the Executive Committee of that Autonomous Section. If specified in the Autonomous Section's Constitution, these officers may be elected in the elections detailed in Section 11. They may also be elected at open meetings of the Autonomous Section.
 
-		2. Democracy and Communications Officer shall be the lead Sabbatical Officer of the Forum.
+21. Subject to their own constitutions and the oversight of Trustee Board, Autonomous Sections shall be free to set their own policy, to act, and to spend their own resources as they see fit, except that they may not directly contradict or violate Policy, the Memorandum and Articles or these Bye-Laws.
 
-		3. Shall be a Forum for UCLU members to direct the Union's student media activity. Providing a Forum for members to share information, raise matters of concern and drive forward the Student Media activities in the best interests of students.
+#### Liberation Sections
 
-		4. Officers within the Forum shall be the Presidents of UCLU Media.
+22. Liberation Sections shall exist to enable their members to self-organise in order to lead efforts to:
 
-	12. SSEES Forum
+	1. challenge and change discrimination, oppression and inequality that they face.
 
-		1. Chaired by SSEES Officer, who shall be a student at UCL SSEES.
+	2. defend and extend their rights.
 
-		2. Medical and Postgraduate Students' Officer shall be the lead Sabbatical Officer of the Forum.
+	3. represent and further their particular concerns, needs and interests within UCLU, UCL and beyond.
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting SSEES students and develop policy to direct the Union's representation of UCL SSEES students.
+	4. ensure that UCLU's actions do not unfairly exclude, neglect or discriminate against them.
 
-	13. Women's Forum
+	5. promote and facilitate social intercourse and cooperation amongst themselves.
 
-		1. Chaired by Women's Officer, who shall define as a woman.
+23. The Welfare & International Officer shall be the assisting Sabbatical Officer for each Liberation Section.
 
-		2. Welfare and International Officer shall be the lead Sabbatical Officer of the Forum.
+24. Each Liberation Section's Constitution must make provision for the self-representation of members who are also members of the other 3 Liberation Sections. This may be arranged in coordination with the other Liberation Sections.
 
-		3. Shall be a Forum for UCLU members to discuss issues affecting female students at UCL, as well as the Union's policy and priorities that affect female students.
+25. The Liberation Sections shall be:
+
+	1. the Women's Network
+
+		1. The members shall self-define as women.
+
+		2. The Convenor shall be the Women's Officer.
+
+	2. the Black and Ethnic Minority Students' Section
+
+		1. The members shall self-define as black and/or ethnic minority.
+
+		2. The Convenor shall be the Black and Ethnic Minority Students' Officer.
+
+	3. the Disabled Students' Section
+
+		1. The members shall self-define as disabled. This shall include non-visible disabilities.
+
+		2. The Convenor shall be the Disabled Students' Officer.
+
+	4. the LGBT+ Students' Section
+
+		1. The members shall self-define as Lesbian, Gay, Bisexual, Trans\* or Queer.
+
+		2. The Convenor shall be the LGBT+ Officer.
+
+#### Academic Sections
+
+26. The membership of each Academic Section shall be a sub-set of the UCL student body with specific circumstances or school affiliations that significantly affect their needs, concerns and interests as students.
+
+27. Academic Sections shall exist to enable their members to self-organise in order to:
+
+	1. represent and further their particular concerns, needs and interests within UCLU, UCL and beyond.
+
+	2. promote and facilitate social intercourse and cooperation among themselves.
+
+28. Each Academic Section's Constitution must make provision for the self-representation of the members of each Liberation Section within that Academic Section. This may be arranged in coordination with the Liberation Sections, for instance by creating ex officio positions on the Academic Section Executive Committee for an officer from each Liberation Section.
+
+29. The Academic Sections shall be:
+
+	1. the Postgraduate Association
+
+		1. The members shall be postgraduate students.
+
+		2. The Convenor shall be the Postgraduate Students' Officer.
+
+	2. Royal Free, University College, and Middlesex Medical School Students (RUMS)
+
+		1. The members shall be medical students.
+
+		2. The Convenor shall be the RUMS Officer.
+
+		3. The assisting Sabbatical Officer shall be the Medical, Pharmacy & Health Students' Officer.
+
+	3. International Students' Section
+
+		1. The members shall be international students.
+
+		2. The Convenor shall be the International Students' Officer.
+
+		3. The assisting Sabbatical Officer shall be the Welfare & International Officer.
+
+	4. Mature and Part-time Students' Section
+
+		1. The members shall be mature and/or part-time students
+
+		2. The Convenor shall be the Mature and Part-time Students' Officer.
+
+		3. The assisting Sabbatical Officer shall be the Welfare & International Officer.
+
+	5. SSEES Students' Section
+
+		1. The members shall be SSEES students.
+
+		2. The Convenor shall be the SSEES Students' Officer.
+
+		3. The assisting Sabbatical Officer shall be the Education & Campaigns Officer.
+
+	6. Slade Students' Section
+
+		1. The members shall be Slade School of Fine Art students.
+
+		2. The Convenor shall be the Slade Students' Officer.
+
+		3. The assisting Sabbatical Officer shall be the Education & Campaigns Officer.
+
+	7. School of Pharmacy Students' Section
+
+		1. The members shall be School of Pharmacy students.
+
+		2. The Convenor shall be the School of Pharmacy Students' Officer.
+
+		3. The assisting Sabbatical Officer shall be the Medical, Pharmacy & Health Students' Officer.
 
 ##Section 4 - Union Council
 
-###Purpose
+### Purpose
 
-1. Union Council is an assembly of the Chairs of Union Forums.
+1. Union Council exists to represent the voice of members between General Assemblies and Referenda, and to create policy and monitor its execution.
 
-2. It exists to represent the voice of students between Members' Meetings and Referenda, and to support the execution of policy.
+2. It is also responsible for the development and implementation of the Union's Strategic Plan.
 
-3. It leads the Union in delivering on the representative and political priorities of UCL students.
+3. It may delegate any given area of its powers to the Union Executive Committee between meetings, except the creation of policy.
 
-4. It is also responsible for the development and implementation of the Union's Strategic Plan.
+### Composition
 
-###Composition
-
-5. The composition of Union Council Shall be:
+4. The composition of Union Council shall be:
 
 	1. Union Chair (Chair)
 
-	2. Democracy and Communications Officer (Sabbatical Officer)
+	2. Faculty Representatives (50, elected as described elsewhere in the Bye-Laws)
 
-	3. Education and Campaigns Officer (Sabbatical Officer)
+	3. The Convenors of the Liberation Sections
 
-	4. Ethics, Environment and Operations Officer (Sabbatical Officer)
+	4. The Convenors of the Academic Sections
 
-	5. Medical and Postgraduate Students' Officer (Sabbatical Officer)
+5. All members of Union Council shall have voting rights, except the Chair who shall retain the casting vote should there be a tie.
 
-	6. Student Activities Officer (Sabbatical Officer)
+6. Officers who are members of the Union Executive Committee but not members of Union Council shall attend, in order that members and Union Council may ask them questions and hold them to account, but shall not have voting rights.
 
-	7. Welfare and International Officer (Sabbatical Officer)
+7. Any member of the Union may attend meetings of Union Council with the speaking rights but not voting rights.
 
-	8. Women's Officer (Chair of Women's Forum)
+### Proxies
 
-	9. Ethics and Environment Officer (Chair of Ethics and Environment Forum)
+8. An Autonomous Section Convenor may appoint a Proxy for any Union Council meeting by notifying the Chair in writing at least three hours in advance of the meeting.
 
-	10. Education Officer (Chair of Education Forum)
+9. The Proxy must be an elected Officer of that Autonomous Section.
 
-	11. Activities Officer (Chair of Activities Forum)
+10. A Proxy shall exercise all the rights of the Convenor in question during that meeting. No person may exercise the rights of more than one Officer in any one meeting.
 
-	12. Community Officer (Chair of Community Forum)
+### Protocol
 
-	13. Student Media Officer (Chair of Media Forum)
+11. Union Council shall meet at least twice in each of the first and second terms, and not less than once in the third term, not including meetings triggered by inquoracy of General Assemblies.
 
-	14. RUMS Officer (Chair of RUMS Forum)
+	1. Additional meetings may be called by a petition, submitted to the Chair, of 10 members of Union Council, or by act of the Chair, or by a resolution of the Union Executive Committee.
 
-	15. SSEES Officer (Chair of SSEES Forum)
+	2. Quorum shall be 25% plus one of the elected members.
 
-	16. Postgraduate Students' Officer (Chair of PGA Forum)
+	3. Union Council members who fail to attend 2 consecutive Council meetings without offering apologies shall be ignored in the calculation of quorum until they resume attendance. The Chair shall contact the officer to notify them within 1 working day of the second meeting. If the officer fails to attend a third consecutive meeting without offering apologies, the Chair shall notify Council and the officer's constituents.
 
-	17. LGBT+ Officer (Chair of LGBT+ Forum)
+12. The agenda, including all necessary papers, shall be circulated at least 3 working days before the meeting.
 
-	18. International Students' Officer (Chair of International Students' Forum)
+13. Minutes of the meeting shall be approved at the subsequent meeting and then posted on the Union website within 5 working days.
 
-	19. Equality Officer (Chair of Equality Forum)
+14. Union Council will receive a quarterly report from the Trustee Board.
 
-	20. Faculty Reps (50, divided amongst the Faculties in accordance with the Bye-Laws on elections)
+15. At every meeting Union Council will receive to the meeting notes from the Networks, Assemblies and Sections and may question Officers and Representatives.
 
-	21. First Year Representatives (5)
+16. Union Council will elect Union members, or make ex officio appointments of Officers, to UCL committees, except where this responsibility is delegated to a relevant Autonomous Section. Representatives elected to UCL committees by Union Council may be recalled by a simple majority vote on an ordinary motion, in which case an election to replace the representative shall be held as soon as is possible.
 
-	22. SOP officer (Chair of SOP Forum)
+17. Union Council may delegate areas of work to working groups that are charged with taking forward activity between Union Council meetings. They shall consist of at least 3 Union Council members, and may also involve students who are not members of Union Council.
 
-	23. BME Students' Officer
+18. There should be a Union Council meeting scheduled to follow each General Assembly to be able to consider any business which has not been dealt with at the General Assembly, and that Union Council is empowered to deal with. Any business dealt with shall take the time of submission to the General Assembly to be the time of submission for the meeting of Union Council. If there is no business to consider, the meeting shall not occur.
 
-	24. Disabled Students' Officer
+### Chairing
 
-6. All members of Union Council shall have voting rights, except the Chair who shall retain the casting vote should there be a tie.
+19. The Chair is charged with keeping the meeting in order, ensuring remarks are relevant and providing information that is relevant to the business and procedure of the meeting.
 
-7. Any member of the Union may attend Union Council to observe or speak but does not have voting rights at the meeting.
+20. The Chair shall have casting vote where the decision is tied.
 
-###Protocol
+21. The Chair shall be heard in silence and may expel any member if they refuse to obey the procedure of the meeting and are acting in a way that disrupts the meeting or unfairly prevents other members from participating. Before leaving, the expelled member shall have the right to call for a procedural motion to challenge or no confidence the Chair over this decision. If such a motion is called, the expelled member may remain in the meeting for the discussion, however they may not vote on the procedural motion.
 
-8. Union Council shall meet not less than 4 times in a term in the winter and spring terms and not less than once in the summer term.
+22. The Chair may vacate the Chair to participate in debate; otherwise they may not participate in debate. Should the Chair participate in debate, the meeting will appoint an Acting Chair for this debate.
 
-9. Additional meetings may be called by a petition, submitted to the Chair, of 10 members of Union Council.
+### Discussions and policy
 
-10. Quorum shall be 25% plus one of elected members, with Sabbatical Officers not contributing to quoracy. Union Council members who fail to attend 2 consecutive Council meetings without offering apologies shall be ignored in the calculation of quoracy until they resume attending. The Chair shall contact the officer to notify them within 1 working day of the second meeting. If the officer fails to attend a third consecutive meeting without offering apologies, the Chair shall notify Council and the Officer's constituents.
+23. All Policy adopted by Union Council must be put in written form (i.e. a motion) to a vote.
 
-11. The agenda, including all necessary papers, shall be circulated at least 3 working days before the meeting.
+	1. Except in the case of emergencies, motions must be submitted to the Chair at least 4 working days before a meeting.
 
-12. Minutes of the meeting shall be posted on the Union website within 5 working days of the meeting.
+	2. Any member of the Union may propose a motion.
 
-13. Union Council will receive a quarterly report from the Trustee Board.
-
-14. At every meeting Union Council will receive access to notes from the Forums and may question the Chairs of Forums.
-
-15. Union Council will elect Union members to College committees.
-
-16. Union Council may delegate areas of work to working groups that are charged with taking forward activity between Union Council meetings. They shall consist of at least 3 Union Council members, and may also involve students who do not sit on Union Council.
-
-17. There should be a Union Council meeting scheduled to follow each Members' Meeting to be able to consider only business which has not been dealt with at the Members' Meeting, and that Council is empowered to deal with. Any business dealt with shall take the time of submission to the Members' Meeting to be the time of submission for the meeting of Council. If there is no business to consider, the meeting shall not occur.
-
-###Chairing
-
-18. The Chair is charged with keeping the meeting in order, ensuring remarks are relevant and providing information that is relevant to the business and procedure of the meeting.
-
-19. The Chair shall have casting vote where the decision is tied.
-
-20. The Chair shall be heard in silence and may expel any member if they refuse to obey the Chair.
-
-21. The Chair may vacate the Chair to participate in debate; otherwise they may not participate in debate. Should the Chair participate in debate, the meeting will appoint a temporary Chair for this debate.
-
-###Discussions and policy
-
-22. All Forum Policy shall be reported to Union Council. Forum Policy for adoption as Union Policy must be voted on by Union Council.
-
-	1. They must be submitted to the Chair at least 4 working days before a meeting.
-
-	2. They must be supported by a proposer and seconder, both of whom must be members of the Union.
-
-	3. They may be deferred by Union Council on the following terms, with the following outcomes:
-
-		1. The policy relates to the remit of a different Forum to the one that put it to Union Council.
-
-			1. Union Council can defer the policy until it has been submitted to and passed by the relevant Forum, as decided by Union Council.
-
-		2. The policy violates the Memorandum and Articles or Byelaws of the Union.
-
-			1. The policy is deferred back to the Forum so it can be redrafted in line with the Union Governing Documents.
-
-23. General issues including policy proposals from individual members for discussion must be submitted as an agenda point to the Chair, including any supporting paper work.
+24. General issues for discussion must be submitted to the Chair, including any supporting paper work.
 
 	1. Any member of the Union can submit an issue for discussion.
 
-	2. They must be submitted at least 4 working days before a meeting.
+	2. They must be submitted at least 2 working days before a meeting.
 
-	3. The proposer of the agenda item must set a clear objective for its inclusion on the agenda, which shall be included on the agenda.
+	3. The proposer of the issues must set a clear objective for its inclusion on the agenda, which shall be included on the agenda.
 
-24. Emergency issues are issues that have occurred after the deadline for submission or whose matter cannot be deferred until the next meeting. They must be submitted to the Chair 3 hours before the meeting starts and will be taken at the end of the agenda.
+25. Emergency motions and discussion points relate to issues that have occurred after the deadline for submission or whose matter cannot be deferred until the next scheduled meeting. They must be submitted to the Chair no less than 3 hours before the meeting starts and will be taken at the end of the agenda.
 
-25. Discussions on each issue will follow a fair debating procedure, with speeches for and against and an opportunity for those present to pose questions to the speakers. There will then be opportunity for an open discussion, timing for which may be set by the Chair.
+26. Discussions on each motion will follow a fair debating procedure, with speeches for and against and an opportunity for those present to pose questions to the speakers. There will then be opportunity for an open discussion, timing for which may be set by the Chair.
 
-26. Once the debate is balanced and the Chair is satisfied that there has been adequate discussion, Union Council shall move to a vote.
+27. Once the debate is balanced and the Chair is satisfied that there has been adequate discussion, Union Council shall move to a vote.
 
-27. Take parts - Union Council may choose to take a clause or group of clauses of a proposal in separate parts. There shall be one speech proposing how the motion is to be broken down & one speech against. The proposer of the procedural motion will then become the proposer of the motion of which parts have been taken.
+### Procedure
 
-28. Amendments - Union Council may choose to make minor substantive changes to a proposal, but may not substantially alter the character or subject of the proposal. Union Council may also choose to amend wording to clarify a point. Both of these are at the discretion of the Chair, which may be overturned by the meeting.
+28. A procedural motion may be called at any time unless voting has started. A simple majority is required in order for it to pass, unless otherwise specified.
 
-###Procedure
-
-29. A procedural motion may be called at any time unless voting has started. A simple majority is required in order for it to pass.
+29. Before moving to a vote, the Chair must explain the procedural motion and ensure that all present are given an opportunity to ask the Chair to clarify.
 
 *** A - Challenge the Chair ***
-Challenge must be made immediately after the ruling that is to be challenged. To be overturned it requires 10 members of Union Council to vote for hearing the case, following which the Chair must step down. The proposer will speak, followed by the Chair before the meeting moves straight to a vote on the procedural motion.
+Challenge must be made immediately after the ruling that is to be challenged. The support of 10 members of Union Council is required to hear the case. The Chair must step down and an Acting Chair will be elected. The proposer will speak, followed by the Chair before the meeting moves straight to a vote. Either may waive their speeches to another member present. If the procedural passes, the ruling is overturned.
 
 *** B - No confidence in the Chair ***
-A call of no confidence must be supported by 10 members of Union Council before the debate is heard. The Chair will step down from chairing and hand over to a member of Union Council elected by the floor. There will be a speech for and against the motion before the meeting moves straight to a vote on the procedural motion.
+The support of 10 members of Union Council is required to hear the case. The Chair will step down and an Acting Chair will be elected. The proposer will speak, followed by the Chair before the meeting moves straight to a vote. Either may waive their speeches to another member present. . If the procedural motion passes, the meeting shall proceed with the Acting Chair. Otherwise, the former Chair will return.
 
 *** C - Adjournment of the meeting ***
-The proposer must set the duration of the adjournment and the reasoning. There will be a speech for and against before the meeting moves straight to a vote on the procedural motion.
+The proposer must outline the duration of the adjournment and the reasoning. There will be a speech for and against before the meeting moves straight to a vote on the procedural motion.
 
 *** D - Move straight to the vote ***
-The Chair will conduct a vote on whether or not the current issue or policy discussion should move straight to a vote on the procedural motion. It can only be proposed if there have been equal numbers of speeches for and against the issue or policy being discussed.
+The Chair will conduct a vote on whether or not the meeting should move straight to a vote on the current matter. It can only be proposed if there have been equal numbers of speeches for and against the matter being discussed.
 
 *** E - Refer the matter back ***
-A policy proposal may be referred back to its originating body or persons for reasons set by the proposer. There will be at least one speech for and one speech against before the meeting moves straight to a vote on the procedural motion.
+A matter may be referred back to its original proposer for reasons set by the proposer of the procedural motion. There will be at least one speech for and one speech against before the meeting moves straight to a vote on the procedural motion.
 
 *** F - Refer the matter forward ***
-A policy document or issue may be referred forward to a Members' Meeting or Referenda. There will be at least one speech for and one speech against before the meeting moves straight to a vote on the procedural motion.
+A matter may be referred forward to a General Assembly or Referenda, to the next meeting of Union Council, or to any Faculty or Halls Assembly, Autonomous Section or Network. There will be at least one speech for and one speech against before the meeting moves straight to a vote on the procedural motion.
 
 *** G - Private session ***
-Union Council may vote to move in to a private session. There will be one speech for and one speech against before the meeting moves straight to a vote on the procedural motion. If passed, all in attendance will be excluded, except the General Manager and members of Union Council.
+Union Council may vote to move in to private session. There will be one speech for and one speech against before the meeting moves straight to a vote on the procedural motion. If passed, all in attendance will be excluded, except the General Manager, members of the Union Executive Committee, and members of Union Council.
 
-##Section 5 - Referenda
+*** H - Suspend Bye-Laws on an emergency basis ***
+This procedural motion shall require a 75% majority. The proposer of the procedural motion must specify which Bye-Laws are to be suspended and for what period. The Chair shall offer shall ensure reasonable assistance is offered to the proposer to indentify relevant Bye-Laws. There shall be one speech for and one against the motion, as well as an opportunity for general discussion, questions and clarifications about the potential ramifications, before the vote. If it passes, a meeting of the Steering Committee shall be called at the earliest reasonable opportunity.
 
-1. Any issue decided by a Referendum shall overrule any decision made at a Members' Meeting, Union Council, Forum or committee level except in the case of Human Resources Committee.
+*** I - Delete part of a motion or amendment ***
+The proposer must specify which part of a motion or amendment is to be deleted. There will be at least one speech for and one speech against before the meeting moves to a vote on the proposal.
+
+*** J - Take a motion in parts ***
+The proposer shall specify any number of parts of the motion or amendment which should be voted on separately. There will be at least one speech for and one speech against before the meeting moves to a vote on the procedural motion. If it passes, each part of the amendment or motion shall be discussed and voted on separately. The proposer of the procedural motion will then become the proposer of the motion.
+
+*** K - Alter the order of the agenda ***
+The proposer shall specify a change to the order of items on the agenda. There will be at least one speech for and one speech against before the meeting moves to a vote on the proposal.
+
+*** L - Make an Amendment not on the agenda ***
+The proposer shall specify an alteration to a motion or amendment which is under discussion. These may include minor substantive changes or nonsubstantive clarificatory/drafting changes, but may not significantly alter the overall character or subject of the motion. It is at the discretion of the Chair to decide whether proposed amendments are permissible. If the amendment is deemed permissible, debate and voting shall proceed as if for a normally submitted amendment.
+
+##Section 5 - Union Executive Committee
+
+### Purpose
+
+1. The Union Executive Committee has responsibility for ensuring and monitoring the implementation of Policy; and recommending to Union Council and the membership on areas in which Policy might usefully be created.
+
+2. It shall have responsibility for the day to day political operation of the Union, and for the implementation of the Strategic Plan under direction from the Union Council.
+
+3. The Union Executive Committee shall report to every meeting of Union Council and every General Assembly on the implementation of Policy.
+
+### Authority
+
+4. The Union Executive Committee shall have the power to run the Union's affairs in accordance with Policy
+
+5. In cases where additional policy is deemed necessary, the Union Executive Committee shall have the power to act on behalf of Union Council on an emergency basis if:
+
+	1. action is necessary to further the Objects and Policy of the Union and
+
+	2. such action must be taken before it is reasonably possible for Union Council or the Membership to create relevant policy
+
+6. If there is no policy relating to the emergency matter at hand, the Union Executive Committee shall call either an emergency meeting of the Union Council or an Extraordinary General Assembly.
+
+7. The decisions of the Union Executive Committee may be overruled by Union Council, General Assemblies and Referenda.
+
+8. Decisions made by the Union Executive Committee shall lapse at the next Union Council or General Assembly. Members of Union Executive Committee who wish to continue to implement these decisions must seek the approval of Union Council or the General Assembly, or through them create appropriate policy.
+
+### Meetings and Chairing
+
+9. Meetings shall take place weekly during term time.
+
+10. Additional meetings of the Union Executive Committee may be called by a petition of 5 of its members, or by Union Council.
+
+11. All meetings shall be open to all members of the Union.
+
+### Quorum
+
+12. The quorum for the Union Executive Committee shall be 50% of its members, providing that at least two of its non-sabbatical members are present
+
+### Composition
+
+13. The members of the Union Executive Committee shall be as follows:
+
+	1. All Sabbatical Officers
+
+	2. The LGBT+ Officer
+
+	3. The Black and Ethnic Minority Students' Officer
+
+	4. The Disabled Students' Officer
+
+	5. The Women's Officer
+
+	6. The Environment and Ethics Officer
+
+	7. The Community Relations Officer
+
+	8. The Activities Officer
+
+### Chair
+
+14. The Chair of the Union Executive Committee shall be elected at the beginning of each meeting, and shall be drawn from the non-sabbatical officers at the meeting.
+
+15. The Chair shall retain full voting rights.
+
+### Voting
+
+16. All votes at the Union Executive Committee shall be by simple majority.
+
+17. If a vote is tied at the Union Executive Committee, it shall fall.
+
+### Organisation and Contingency
+
+18. The Democracy and Communications Officer shall be responsible for convening the agenda papers for meetings of the Union Executive Committee, and shall facilitate the election of the Chair.
+
+##Section 6 - Referenda
+
+1. Any issue decided by a Referendum shall overrule any decision made at a General Assembly, Union Council, Network or Committee except in the case of Human Resources Committee and Trustee Board.
 
 2. A Referendum may be called by any of the following:
 
@@ -381,25 +526,23 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	2. By a petition of at least 2% of the members of the Union, which must list the names, departments and signatures of the members and be handed to the Democracy and Communications Officer.
 
-	3. Acceptance by a simple majority of a motion to a Members' Meeting.
+	3. A simple majority vote at a General Assembly.
 
-	4. A resolution of the Trustees.
+3. The Democracy and Communications Officer shall be charged with organising the Referendum based on a schedule approved by Union Council. The schedule may be proposed verbally to Union Council and amended in discussion and shall not require formal submission as a motion.
 
-3. The Union Council shall be charged with organising and regulating the Referendum based on a schedule proposed by the Democracy and Communications Officer.
+4. The Referendum will finish within 4 term weeks of when it was called.
 
-4. The Referendum will be held on a date within 4 term weeks after receiving the request.
-
-5. Quorum for a Referendum shall be 5% of the membership of the Union. When the quorum is not met the matter shall be decided by a Members' Meeting called especially to consider the matter.
+5. Quorum for a Referendum shall be 5% of the membership of the Union. If the quorum is not met the matter shall be decided by a General Assembly which must take place at least 2 term weeks after the Referendum. The decision of such a meeting shall carry the weight of a General Assembly and not of a Referendum.
 
 6. The Referendum shall be conducted by means of a cross-campus ballot.
 
-7. Polling shall be on at least 24 hours, and may be for longer, at the discretion of Union Council.
+7. Voting shall be open for at least 24 hours.
 
-	1. Polling shall usually be conducted online through a secure poll on the Union website unless the Union Council deems it more appropriate to hold a paper ballot.
+	1. Voting shall usually be conducted online through a secure poll on the Union website unless the Union Council deems it more appropriate to hold a paper ballot.
 
 	2. Provision must be made for members who require an alternative format for voting.
 
-8. At least 3 open meetings shall be held prior to the Referendum to debate the proposal. One of these must be held on 1 working day before polling commences.
+8. At least 3 open meetings shall be held prior to the open of voting to debate the proposal. One of these must be held on 1 working day before polling commences.
 
 9. These open meetings shall:
 
@@ -407,93 +550,99 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	2. Be open to all members of the Union.
 
-	3. Be chaired by the Union Chair who shall endeavour to ensure a balanced debate.
+	3. Be chaired by the Union Chair.
 
-	4. When the Chair feels the debate has reached its conclusion they may ask for one final speech from the person against the proposal before the proposer summates.
+10. The Referendum proposal must include the text of the proposal to be put to the membership. It must also include the names of two members of the Union who are prepared to act as proposer and seconder of the proposal. It may not include a date for the Referendum, this will be decided by Union Council.
 
-10. Any Members' Meeting, Union Council motion or petition requesting a Referendum must include the text of the proposal to be put to the membership. It must also include the names of two members of the Union who are prepared to act as proposer and seconder of the proposal. It may not include a date for the Referendum, this will be decided by Union Council.
+11. Amendments to a Referendum proposal may be made only if agreed by a 75% majority vote of the originating body, at least 3 working days before voting opens.
 
-11. Amendments to a Referendum proposal may be made only if agreed by a 75% majority vote of the originating body or by Union Council if a petition.
+12. Once submitted, a Referendum proposal can only be withdrawn by the originating body.
 
-12. Once submitted, a proposal can only be withdrawn by its proposer.
+13. The Referendum proposal to be considered must be displayed on the Union website by the Democracy and Communications Officer within 1 working day of its calling date.
 
-13. The proposal to be considered must be displayed within 1 working day of receipt on the Union website by the Democracy and Communications Officer.
+##Section 7 - General Assemblies
 
-##Section 6 - Members' Meetings
+1. Members' Meetings as defined in the Memorandum & Articles shall be referred to as “General Assemblies”.
 
-1. All members of the Union shall be entitled to attend Members' Meetings.
+2. All members of the Union shall be entitled to attend General Assemblies.
 
-2. There shall be three types of Members' Meetings: the Annual Members' Meeting, the Welcome Members' Meeting and the Emergency Members' Meeting.
+3. There shall be four types of General Assemblies: the Union General Assembly, the Annual General Assembly, the Welcome General Assembly and the Extraordinary General Assembly.
 
-3. Only members may vote at a Members' Meeting.
+4. Only members may vote at a General Assembly.
 
-4. Student members also have the right to speak on any motion or amendment, vote on any item of debate, raise a point of order, move for a procedural motion, call for a quorum count, call for a recount, request a ruling from the Chair, request that a guest speaker address the meeting.
+5. Members also have the right to speak on any motion or amendment, vote on any item of debate, move for a procedural motion, call for a quorum count, call for a recount, request a ruling from the Chair, or request that a guest speaker address the meeting.
 
-5. Members' Meetings shall take precedence over all meetings of societies wherever they are held.
+6. A General Assembly shall take precedence over all meetings of societies wherever they are held.
 
-6. Quorum for a Members' Meeting shall be 0.5% of the Union Membership. Should the quorum not be reached within 30 minutes of the appointed time the business to be considered shall be considered at the next meeting of Union Council, except business which cannot be determined at Council.
+7. Quorum for a General Assembly shall be 0.5% of the Membership. Should the quorum not be reached within 30 minutes of the published start time, the business to be considered shall be considered at the next meeting of Union Council, except business which cannot be determined at Union Council, or the next scheduled General Assembly, whichever is soonest.
 
-7. No question once decided may be reopened at the same meeting.
+8. No question once decided may be reopened at the same meeting.
 
-8. Proof of Union membership may be required to vote or speak at a Members' Meeting.
+9. Proof of Union membership may be required to vote or speak at a General Assembly.
 
-9. Policy passed at a Members' Meeting shall overrule that passed at Union Council, Forum or committee level except in the case of Human Resources Committee.
+10. Policy adopted at a General Assembly shall overrule any policy determined by Union Council.
 
-###Annual Members' Meeting
+11. A General Assembly, by a majority vote, may also choose to exercise any power ordinarily vested in Union Council, unless explicitly prohibited from doing so.
 
-10. An Annual Members' Meeting shall be held once per annum in the second term.
+### Annual General Assembly
 
-11. Union Council shall decide the time and place of the Annual Members' Meeting with the proviso that it should not be held in the first or second week of term.
+12. An Annual General Assembly shall be held once per annum in the second term.
 
-12. Notice of at least 5 working days for an Annual Members' Meeting will be given on the Union website. The date of the Annual Members' Meeting shall be publicised at least 6 term weeks before the meeting.
+13. Union Council shall approve the time and place of the Annual General Assembly with the proviso that it should not be held in the first or second week of term.
 
-13. The agenda for the Annual Members' Meeting shall be displayed on the Union website at least 4 working days in advance of the meeting.
+14. Notice of at least 5 working days for an Annual General Assembly will be given on the Union website. The date of the Annual General Assembly shall be publicised at least 6 term weeks before the meeting.
 
-###Welcome Members' Meeting
+15. The agenda for the Annual General Assembly shall be displayed on the Union website at least 3 working days in advance of the meeting.
 
-14. The Welcome Members' Meeting shall be held once per annum in the second or third week of the first term.
+### Welcome General Assembly
 
-15. The date of the Welcome Members' Meeting shall be decided by Union Council and publicised from the first day of the first term on the Union website.
+16. The Welcome General Assembly shall be held once per annum in the second or third week of the first term.
 
-###Emergency Members' Meeting
+17. The date of the Welcome General Assembly shall be approved by Union Council and publicised from the first day of the first term on the Union website, and in any material posted to members and incoming students during the Summer.
 
-16. An Emergency Members' Meeting may be called by any of the following:
+### Extraordinary General Assembly
 
-	1. The Union Chair.
+18. Notice of at least 5 working days for an Extraordinary General Assembly will be given on the Union website.
 
-	2. A proposal to Union Council, passed by a simple majority.
+19. The Union Chair may be required to call an Extraordinary General Assembly by any of the following:
 
-	3. A member of Union Council on receipt of a written request from 2% of the student members of the Union.
+	1. A proposal to Union Council, passed by a simple majority.
 
-	4. A member of the Union Council on written receipt of a notice of appeal against a decision of a discipline committee.
+	2. A member of Union Council on receipt of a written request from 2% of the student members of the Union.
 
-	5. The submission of a no confidence motion.
+	3. A member of Union Council on written receipt of a notice of appeal against a decision of a disciplinary hearing.
 
-	6. As a result of an inquorate Referendum.
+	4. As required by no confidence and recall procedures specified elsewhere.
 
-###Union Members' Meeting
+	5. As a result of an inquorate Referendum.
 
-17. Shall be held not less than two times in each of the first and second terms.
+	6. The Union Chair may also decide to call an Extraordinary General Meeting without a request.
 
-18. The Union Chair shall be responsible for the arrangements of an Emergency Members' Meeting. Notice of at least 5 working days for an Emergency Members' Meeting will be given on the Union website.
+### Union General Assembly
 
-###Procedure
+20. Shall be at least twice in each of the first and second terms.
 
-19. Minutes shall be taken by the General Manager or their appointee.
+21. The Union Chair shall be responsible for the arrangements of an Extraordinary General Assembly.
 
-20. A copy of the draft minutes of Members' Meetings and the motions passed must be displayed by the Democracy and Communications Officer within 10 working days of the meeting on the Union website.
+22. Notice of at least 3 term weeks will be given on the Union website and by email to all Members for each Union General Assembly.
 
-21. The Democracy and Communications Officer shall be responsible for conveying all decisions made at Members' Meetings to the membership by:
+### Procedure
+
+23. Minutes shall be taken by the General Manager or their appointee.
+
+24. A copy of the draft minutes of General Assemblies and the motions passed must be displayed by the Democracy and Communications Officer within 10 working days of the meeting on the Union website.
+
+25. The Democracy and Communications Officer shall be responsible for conveying all decisions made at General Assemblies to the membership by:
 
 	1. Including a summary of business on the Union website.
 
-	2. Submitting details to the editor of the student paper.
+	2. Submitting details to the editors of UCLU student media outlets.
 
 	3. Any other means as outlined by Union Council from time to time.
 
-22. The business in the Annual Members' Meeting shall be:
+26. The business in the Annual General Assembly shall be:
 
-	1. Minutes of previous Members' Meetings.
+	1. Minutes of previous General Assemblies.
 
 	2. Matters Arising.
 
@@ -507,7 +656,7 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	7. Report to Membership.
 
-23. The business in a Welcome Members' Meeting shall be:
+27. The business in a Welcome General Assembly shall be:
 
 	1. Acceptance of the agenda.
 
@@ -519,91 +668,93 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	5. Any Other Business.
 
-24. The business in an Emergency Members' Meeting shall be:
+28. The business in an Extraordinary General Assembly shall be:
 
 	1. Acceptance of the Agenda.
 
 	2. Motions.
 
-	3. Any other business.
+	3. Special Resolutions.
 
-###Chair
+	4. Any other business.
 
-25. The Chair of Members' Meetings shall be the Union Chair. In their absence a Sabbatical Officer will be elected from the floor to chair the meeting.
+### Chair
 
-26. The duties of the Chair are the same as the duties of the Chair for Union Council as outlined in the relevant section.
+29. The Chair of General Assemblies shall be the Union Chair. In their absence a member who is not a Sabbatical Officer will be elected from the floor to chair the meeting.
 
-###Debating
+30. The duties of the Chair are the same as the duties of the Chair for Union Council as outlined in the relevant section.
 
-27. Only one motion shall be debated at any one time.
+### Debating
 
-28. The debating procedure shall be that as outlined in the Union Council section, except that procedural motions need to be supported by 25 members before they are heard.
+31. Only one motion shall be debated at any one time.
 
-29. If necessary, tellers may be appointed from Union Council to assist in the vote.
+32. The debating procedure shall be that as outlined in the Union Council section, This excludes procedural motions requiring support from those present to hear the case, which instead need to be supported by 25 members.
 
-##Section 7 - Union Policy
+33. If necessary, the chair may appoint Officers as tellers to assist in the vote.
 
-1. No policy can deny any group of members their rights and privileges as protected under the Memorandum and Articles and Byelaws of the Union.
+##Section 8 - Union Policy
 
-2. UCLU policy can be set by:
+1. No policy can deny any group of members their rights and privileges as protected under the Memorandum and Articles and Bye-Laws.
+
+2. Policy can be set by:
 
 	1. Union Council.
 
-	2. Union Members' Meetings.
+	2. General Assemblies.
 
-	3. Union Referendum.
+	3. Referendum.
 
-3. UCLU Forum policy can be set by UCLU Forums.
+3. Autonomous Sections may set their own internal policies as described elsewhere in the Bye-Laws. This section of the Bye-Laws shall apply only to Union Policy unless otherwise stated.
 
 4. Policy shall exist for 2 years unless it is overturned.
 
-	1. A Forum may overturn its own policy at a later date.
+	1. Union Council may overturn policy made at Union Council.
 
-	2. Union Council may overturn Forum policy and policy made at Union Council.
+	2. General Assemblies may overturn policy made at General Assemblies or Union Council.
 
-	3. Union Members' Meetings may overturn policy made at Members' Meetings, Union Council or Forums.
+	3. Referenda may overturn policy made at Referenda, General Assemblies or Union Council.
 
-	4. Referenda may overturn policy made at Referenda, Members' Meetings, Union Council or Forums.
+5. Policy and Autonomous Section policy remain subject to the authority of the UCLU Trustee Board on the financial and legal grounds set out in the Memorandum & Articles.
 
-5. UCLU policy remains subject to the authority of the UCLU Trustee Board on the grounds of financial or legal considerations.
+6. Where two policies are in contradiction, the policy passed at the higher body (from highest to lowest: Referendum, General Assembly, Union Council) shall take precedence. Where the two policies were passed at the same level, the most recent shall take precedence.
 
-6. Amendments to policy suggested should be discussed with the proposer.
+7. An amendment to a motion going to a meeting may be proposed by any member, at least 1 working day in advance of the meeting at which the motion is to be discussed.
 
-7. An amendment to an existing policy may be made through the meeting(s) it was originally passed by, with the amendments clearly set out and requiring a simple majority to pass and become part of the original policy.
+	1. Emergency amendments may be submitted at least 3 hours before the beginning of the meeting. They must relate to issues that have occurred after the deadline for submission or whose matter cannot be deferred until the next meeting.
 
-8. An amendment to a policy proposal going to a meeting may be made.
+	2. Late amendments not accepted on an emergency basis shall be treated as procedural motions, as described elsewhere in the Bye-Laws.
 
-	1. They must be supported by one proposer and seconder, both of whom must be members of the Union.
+##Section 9 - Union Officers
 
-	2. They must be submitted at least 1 working day in advance of the meeting the policy is being discussed at.
+1. All Union Officers must be a member of the Union at the time of their election and for the duration of their time in office. Any Officer who ceases to be a Member during their term shall vacate their post.
 
-##Section 8 - Union Officers
+2. All Officers are required to act at all times in accordance with the Memorandum and Articles and Bye-Laws of the Union as well as upholding them throughout the Union's activities.
 
-1. All Union Officers must be a member of the Union at the time of their election and for the duration of their time in office.
+3. All Officers shall attend and support, where appropriate, the Sections, Networks, Assemblies and meetings they are involved with in the fulfilment of their role.
 
-2. All Officers are required to act at all times in accordance with the Memorandum and Articles and Byelaws of the Union as well as upholding them throughout the Union's activities.
-
-3. All Officers shall attend and support, where appropriate, the Forums and meetings they are involved with in the fulfilment of their role.
-
-4. All Officers are to attend all Members' Meetings.
+4. All Officers are to attend all General Assemblies.
 
 5. All Officers shall liaise with each other between meetings to coordinate the day-to-day running of the Union.
 
 6. All Officers are expected to actively seek to promote themselves and their work actively to the students that they are elected to represent.
 
-7. All Officers must consult with students throughout their time in office so that they continue to remain as representative as possible of the UCL student population. This includes holding surgeries to make themselves available to students.
+7. All Officers are encouraged to set up working groups as needed to help coordinate campaigns and fulfil other duties. Where appropriate these should be open and advertised to Members who are not Officers. These working groups should remain accountable to the Union Executive Committee.
 
-8. Written notification of resignation of an Officer/Officer-elect must be given to the Democracy and Communications Officer.
+8. All Officers must consult with Members throughout their time in office so that they continue to remain as representative as possible. This includes holding surgeries to make themselves available to students.
 
-	1. If they wish to reconsider their resignation, written notification must be given to the Democracy and Communications Officer within 5 working days after the original notification.
+9. Written notification of resignation of an Officer/Officer-elect must be given to the Democracy and Communications Officer.
 
-###A - Sabbatical Officers
+10. If they wish to reconsider their resignation, written notification must be given to the Democracy and Communications Officer within 5 working days after the original notification.
 
-9. Sabbatical officers shall be collectively responsible for overseeing the day-to-day operational activity of the Union.
+11. For the avoidance of doubt, the existence of Autonomous Sections and their Officers shall not relieve other Officers of responsibilities towards any group of Members represented by an Autonomous Section.
 
-10. They shall meet regularly with the General Manager to discuss operational management of the Union.
+### Sabbatical Officers
 
-	1. The meeting will not make any decisions that are deemed to be policy decisions and will act within the bounds of existing Union Policy.
+12. Sabbatical officers shall be collectively responsible for overseeing the day-to-day operational activity of the Union.
+
+13. They shall meet regularly with the General Manager to discuss operational management of the Union.
+
+	1. These meetings will not make any decisions that are deemed to be policy decisions and will act within the bounds of existing Union Policy.
 
 	2. Where necessary this committee may act on behalf of the Trustee Board, with reports on decisions made to be submitted to the Trustee Board for approval. The Chair of Trustee Board, or in their absence the Vice-Chair, may determine that the Admin Meeting is required to act on behalf of the Trustee Board, in line with the responsibilities of Trustee Board (see below), if there is deemed to be insufficient time for the full Trustee Board to deal with the matter or that circumstances otherwise dictate that this is necessary. The Chair, or in their absence Vice Chair, must clearly indicate prior to discussion which matters are to be considered Trustee Board issues and decisions and the minutes must reflect this. The reports on all decisions made in this manner are to be submitted to the Trustee Board to note.
 
@@ -611,55 +762,19 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	4. The Admin minutes of these meetings shall be submitted to Union Council
 
-11. They shall act as cheque signatories for the Union.
+14. They shall act as cheque signatories for the Union.
 
-12. They shall be the Sabbatical Trustees of the Union.
+15. They shall sit on Union Executive Committee
 
-13. They shall ensure the Union is ethically and environmentally sound, in accordance with policy set by Union Council, Members' Meetings and Referenda.
+16. They shall ensure the Union is ethically and environmentally sound, in accordance with policy set by Union Council, General Assemblies and Referenda.
 
-14. Their term of office shall be 1st August until 31st of July.
+17. Their term of office shall be 1^st^ August until 31^st^ of July.
 
-15. Sabbatical Officers may not stand for re-election.
+18. Sabbatical Officers may not stand for re-election.
 
-####No Confidence Procedure for Sabbatical Officers
+#### Democracy and Communications Officer
 
-16. No confidence motions may be submitted to Union Council or to a Members' Meeting. A no confidence motion must specify in which of these meetings it is to be debated.
-
-17. One emergency meeting of Union Council and one Emergency Members' Meeting or two Emergency Members' Meetings shall be called on receipt of the motion, unless the paper deadline for the next scheduled meeting falls within 5 working days of receipt in which case the No Confidence motion will take precedence over all other motions to be considered.
-
-18. These meetings shall be separated by at least 5 working days.
-
-19. No confidence motions require at least one proposer and fifty seconders, all of whom must be Union members and who must sign the motion along with stating their department and student number.
-
-20. Sabbatical Officers may only have a motion of no confidence brought against them if the Sabbatical contract has been broken or if they are guilty of gross misconduct.
-
-	1. The no confidence motion must state how and when the contract was broken or what gross misconduct has taken place.
-
-	2. Union Council or the Members' Meeting must rule out any motion that does not conform to the rules above.
-
-21. The motion must be displayed on the Union website for 5 working days prior to the first meeting.
-
-22. The motion must be passed by a 75% majority at two consecutive meetings.
-
-23. Once a motion of no confidence has been passed at the first meeting the Officer in question will be immediately suspended from duty.
-
-24. If the Officer wishes to appeal they must give notice in writing to the Union Chair within 2 working days of the first vote. If it is inappropriate for the Union Chair to receive the complaint, it shall be sent to the Democracy and Communications Officer.
-
-	1. If an appeal is lodged an appeal committee will be formed and will consist of 3 Sabbatical Officers from another University of London school or college.
-
-		1. The panel will meet before the second meeting and will rule on whether the contract was broken or whether gross misconduct took place. They cannot express any other opinion on the matter.
-
-	2. If the appeal is successful the officer shall return to their duties and the Union Chair shall rule the motion out of order.
-
-	3. If the appeal is unsuccessful the officer will remain suspended until the Emergency Members' Meeting.
-
-25. If the motion is passed for a second time the Officer shall be deemed to have been dismissed with immediate effect.
-
-26. If the motion is not passed for the second time the Officer shall return to duties as normal.
-
-####Democracy and Communications Officer
-
-27. The Democracy and Communications Officer will:
+19. The Democracy and Communications Officer will:
 
 	1. Strive to perpetuate the widespread understanding of the Union's activities, developments and achievements, among students, stakeholders and the public.
 
@@ -669,31 +784,43 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	4. Oversee the publications and broadcasts of the Union.
 
-	5. Be the active respondent to all general media enquiries.
+	5. Be the lead Officer responsible for affiliations.
 
-	6. Be the lead Officer responsible for affiliations.
+	6. Work with the Union Chair to ensure elections run in a fair manner.
 
-	7. Work with the Union Chair to ensure elections run in a fair manner.
+	7. Be the lead Officer responsible for strategic planning, including communicating the strategic plan to Officers of the Union to ensure its effective implementation and to members of the Union.
 
-	8. Be the lead Officer responsible for strategic planning, including communicating the strategic plan to Officers of the Union to ensure its effective implementation and to members of the Union.
+	8. Liaise with the Liberation Section Convenors to ensure that the Union's democratic processes are accessible and ethical.
 
-####Education and Campaigns Officer
+	9. Be the lead Officer responsible for mergers.
 
-28. The Education and Campaigns Officer will:
+	10. Liaise with external organisations on issues related to student media.
+
+	11. Support the UCLU Student Media Societies.
+
+	12. Shall be a Sabbatical Trustee of the Union.
+
+#### Education and Campaigns Officer
+
+20. The Education and Campaigns Officer will:
 
 	1. Represent the academic needs of members to UCL.
 
-	2. Represent the views and needs of members to external organisations to which UCLU is affiliated or a member of, including but not limited to the NUS, ULU and the Aldwych Group.
+	2. Support student representation at all levels and be responsible for the development and implementation of a student representation strategy.
 
-	3. Be the active respondent to media queries related to educational matters.
+	3. Support campaigning activity on all matters.
 
-	4. Support student representation at all levels and be responsible for the development and implementation of a student representation strategy.
+	4. Liaise with Academic Sections to assist their representation and campaigning work on academic issues relevant to their members.
 
-	5. Support campaigning activity on all matters.
+	5. Work with trade unions on campus to campaign on issues
 
-####Ethics, Environment and Operations Officer
+	6. Be the active respondent to student media inquiries.
 
-29. The Ethics, Environment and Operations Officer will:
+	7. Shall be a Sabbatical Trustee of the Union.
+
+#### Ethics, Environment and Operations Officer
+
+21. The Ethics, Environment and Operations Officer will:
 
 	1. Be ultimately responsible for oversight of the Union's finances.
 
@@ -705,27 +832,79 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	5. Be the lead officer on HR matters.
 
-	6. Drive forward implementation of UCLU commitment to sustainability and environmental responsibility.
+	6. Drive forward implementation of UCLU's commitment to sustainability and environmental responsibility.
 
-####Medical and Postgraduate Students' Officer
+	7. Liaise with Liberation Section Convenors to ensure that the Union's services are run in an accessible and ethical way.
 
-30. The Medical and Postgraduate Students' Officer will:
+	8. Shall be a Sabbatical Trustee of the Union.
 
-	1. Represent the needs of medical and postgraduate students at all levels.
+#### External Affairs and Campaigns Officer
 
-	2. Ensure the provision of an environment which supports and provides for the separate social and academic needs of medical and postgraduate students.
+22. The External Affairs and Campaigns Officer shall:
 
-	3. Liaise with the appropriate national bodies on issues affecting medical and postgraduate students.
+	1. Be the lead officer for matters that relate to the world beyond campus, including regional and national politics, and any matters involving the interaction of UCL, UCLU or its members with external bodies or communities (except disciplinary matters), including coordinating campaigns on such matters consistent with Policy.
 
-	4. Work to engage medical and postgraduate students in all levels of Union activity.
+	2. Represent the views and needs of members to external organisations to which UCLU is affiliated or a member of, including but not limited to the NUS, ULU and the Aldwych group.
 
-	5. Facilitate the continued existence of separate Sports Clubs for medical students.
+	3. Be the active respondent and spokesperson to non-student media inquiries, and co-ordinate the Union's media presence as appropriate
 
-	6. Be the lead officer for mergers.
+	4. Seek to engage students in wider political and social issues.
 
-####Student Activities Officer
+	5. Shall be a Sabbatical Trustee of the Union.
 
-31. The Student Activities Officer shall:
+#### Postgraduate Students' Officer
+
+23. The Postgraduate Students' Officer shall:
+
+	1. Be a postgraduate student
+
+	2. Be the Convenor for the Postgraduate Association (PGA).
+
+	3. Conduct their duties in cooperation and consultation with the Members and Officers of the PGA, including through appropriate delegation of responsibilities.
+
+	4. Coordinate representation and campaigning work, through the Postgraduate Association and UCLU, for the needs and interests of postgraduate members, addressing all relevant bodies including but not limited to the Graduate School, UCL, the University of London, local and national government.
+
+	5. Represent PGA policy and the needs and concerns of postgraduate members within UCLU, ULU, NUS, and any other organisations to which UCLU or the PGA affiliates.
+
+	6. Coordinate events and activities for postgraduate Members.
+
+	7. Ensure that all relevant facets of the work of UCLU and its other Officers caters appropriately for, and engages with, postgraduate students.
+
+#### Medical, Pharmacy and Health Students' Officer
+
+24. The Medical, Pharmacy and Health Students' Officer shall
+
+	1. Be a member of one of the following:
+
+		1. UCL Medical School
+
+		2. UCL School of Pharmacy
+
+		3. UCL Eastman Dental Institute
+
+		4. Any other allied health School or Institute that sits within UCL's structure
+
+	2. Represent and campaign for the needs and interests of medical, pharmacy and all allied health professional students at all levels, including liaising with the .
+
+	3. Conduct campaigns, representation and social integration through, but not limited to, Royal Free, University College & Middlesex Medical School Students' (RUMS) and School of Pharmacy Section (SoP).
+
+	4. Represent medical, pharmacy and all allied health professional students to UCL, UCLU, ULU and any other external or internal bodies that UCLU, RUMS and SoP are affiliated or chooses to be affiliated to.
+
+	5. Liaise with the appropriate national representative and governing bodies on issues that affect medical, pharmacy and allied health professional students.
+
+	6. Work to ensure that sufficient provisions are made for all medical, pharmacy and allied health professional students are able to engage fully in UCLU's services and activities.
+
+	7. Facilitate the continued existence of independent RUMS and SoP societies and Sports Clubs
+
+	8. Facilitate, promote and expand the provision of RUMS, SoP and allied health professional Clubs and Societies
+
+	9. Aid the Activities and Events Officer in the governance and management of all RUMS, SoP and allied health professional Clubs and Societies.
+
+	10. Liaise with the Education & Campaigns Officer and relevant Faculty Representatives to assist in the representation of the
+
+#### Activities and Events Officer
+
+25. The Activities and Events Officer shall:
 
 	1. Be primarily concerned with the non-academic development of members.
 
@@ -733,157 +912,143 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Make recommendations on the affiliation of new Clubs and Societies.
 
-	4. Ensure that Clubs and Societies operate with the Union's Memorandum and Articles and Byelaws, as well as their own constitutions.
+	4. Ensure that Clubs and Societies operate with the Union's Memorandum and Articles and Bye-Laws, as well as their own constitutions.
 
-	5. Be responsible for the financial matters of Clubs and Societies, including the allocation of funding.
+	5. Oversee the Volunteering Services Unit
 
-	6. Ensure all Club and Society publicity is produced within the appropriate guidelines and policies.
+	6. Be responsible for the financial matters of Clubs and Societies, including the allocation of funding.
 
-	7. Oversee the awarding of colours associated with student activities.
+	7. Ensure all Club and Society publicity is produced within the appropriate guidelines and policies.
 
-	8. Oversee initiatives and projects which develop our members' skills and employability.
+	8. Oversee the awarding of colours associated with student activities.
 
-####Welfare and International Officer
+	9. Oversee initiatives and projects which develop our members' skills and employability.
 
-32. The Welfare and International Officer will:
+	10. Liaise with Liberation Section Convenors to ensure that the Union's Clubs and Societies and other student activities are run in an accessible and ethical way.
 
-	1. Strive to ensure a safe and welcoming environment for all members at UCLU and in the wider community.
+	11. Liaise with Academic Section Convenors to ensure that the Union's Clubs and Societies and other student activities cater to the diverse needs, interests and circumstantial constraints of UCL's diverse student population.
+
+	12. Assist Autonomous Sections to organise their social event programmes.
+
+	13. Be the lead officer for organising the Union's events
+
+	14. Shall be a Sabbatical Trustee of the Union.
+
+#### Welfare and International Officer
+
+26. The Welfare and International Officer will:
+
+	1. Strive and campaign to ensure a safe and welcoming environment for all members at UCLU and in the wider community.
 
 	2. Represent the needs of international students at all levels.
 
 	3. Ensure that the Union is compliant with all relevant policies relating to equal opportunities.
 
-	4. Liaise with UCL Residences Office to ensure adequate provision of student accommodation.
+	4. Campaign for adequate, affordable and accessible provision of student accommodation.
 
 	5. Ensure specific Union provision for international students outside of term and at the start of session as appropriate.
 
-###B - Acting Sabbatical Officers
+	6. Provide support to assist the Non-Sabbatical Officers of the Liberation Sections in their work. For the avoidance of doubt, this shall not include taking any political leadership role.
 
-33. Acting Sabbatical Officers will be expected to undertake all duties set out in Section 8 parts 1 to 7.
+	7. Shall be a Sabbatical Trustee of the Union.
 
-34. They are expected to undertake as far as possible the specific duties as listed for the relevant Sabbatical Officer position.
+### Acting Sabbatical Officers
 
-35. Their term of office shall finish on the date that their predecessors would have finished had they not vacated the post.
+27. Acting Sabbatical Officers will be expected to undertake all duties set out in Section 8 parts 1 to 7.
 
-36. They shall take up the Union Council position left vacant by the Sabbatical Officer that vacated the post.
+28. They are expected to undertake as far as possible the specific duties as listed for the relevant Sabbatical Officer position.
 
-###C - Non-Sabbatical Officers
+29. Their term of office shall finish on the date that their predecessors would have finished had they not vacated the post.
 
-37. The term of office for non-sabbatical officers elected in the Spring Elections shall be from the first day of the academic year after their election until 31st of July.
+30. If they interrupt their studies, Acting Sabbatical Officers shall be paid the full wage of a Sabbatical Officer.
 
-38. The term of office for non-sabbatical officers elected in the Autumn Elections shall be from the time of their election until 31st of July
+31. If not interrupting their studies, Acting Sabbatical Officers shall be paid an amount ranging from nothing to half of the full wage of a Sabbatical Officer. This amount shall be determined by the Human Resources Committee.
 
-	1. Except the term of office for all postgraduate officers, which shall run from the time of their election until the conclusion of the following year's Autumn Elections.
+### Non-Sabbatical Officers
 
-####No Confidence Motions in Non-Sabbatical Officers
+32. Terms of office for Non-Sabbatical Officers shall be specified in the Elections section of the Bye-Laws.
 
-39. No confidence motions may be submitted to the Union Council or a Members' Meeting.
+#### Activities Officer
 
-40. No confidence motions require at least one proposer and 25 seconders, all of whom must be Union members and must sign the motion along with stating their student number and department.
+33. The Activities Officer shall:
 
-41. On receipt of a no confidence motion an emergency Union Council meeting or Emergency Members' Meeting shall be called, unless the paper deadline for the next scheduled meeting falls within 5 working days of receipt in which case the No Confidence motion will take precedence over all other motions to be considered.
+	1. Work closely with, and receive the support of, the Activities and Events Officer.
 
-42. Non-Sabbatical Officers may only be no confidenced if they have failed to fulfil the duties of their post as outlined in the Byelaws, or if they are guilty of gross misconduct. The motion must state which of their duties they have failed to fulfil or the nature of the gross misconduct.
+	2. Support the non-academic development of the students by encouraging Club and Society activities.
 
-43. Union Council or the Members' Meeting must rule out of order any motion which does not conform to the rules above.
+	3. Support the Activities and Events Officer in representing the areas to the Union and the College.
 
-44. The motion must be displayed on the Union website for 10 working days prior to an emergency Union Council meeting or Members' Meeting.
+	4. Help coordinate the activities Clubs and Societies are involved in, such as the Arts Festival.
 
-45. The motion must be passed by a 75% majority at the emergency Union Council meeting or Members' Meeting.
+	5. Facilitate student engagement in the management and administration of their Clubs and Societies.
 
-46. Once a motion of no confidence has been passed, the Officer in question will be immediately suspended from duty.
+	6. Encourage Clubs and Societies to be inclusive and work within UCLU Equal Opportunities policy.
 
-47. If the Officer wishes to appeal an appeal committee is formed.
+	7. Work with the Activities and Events Officer to promote student volunteering.
 
-	1. It will consist of two people elected from Union Council and an Officer from another Students Union in London.
+	8. Chair the Activities Network.
 
-	2. It will rule on whether the Officer failed to fulfil their job description or if they are guilty of gross misconduct. They cannot express any other opinion on the matter.
+	9. Sit on Union Executive Committee
 
-	3. If the appeal is successful the Officer shall return to duty and the Union Chair shall be bound to rule the motion out of order.
+#### Black and Ethnic Minority Students' Officer (BME Students' Officer)
 
-	4. The procedure need not be used to dismiss Union Council members for non-attendance.
+34. The BME Students' Officer shall:
 
-####Activities Officer
+	1. Self-define as Black or Minority Ethnic
 
-48. The Activities Officer shall:
+	2. Represent the interests of BME Members within UCLU, UCL and beyond.
 
-	1. Support the non-academic development of the students by encouraging Club and Society activities.
+	3. Work with the Welfare & International Officer.
 
-	2. Support the Student Activities Officer in representing the areas to the Union and the College.
+	4. Coordinate campaigns related to issues relevant to BME Members.
 
-	3. Help coordinate the activities Clubs and Societies are involved in, such as the Arts Festival.
+	5. Coordinate campaigns against racism and fascism.
 
-	4. Facilitate student engagement in the management and administration of their Clubs and Societies.
+	6. Liaise with external organisations such as the NUS on issues relevant to BME Members.
 
-	5. Encourage Clubs and Societies to be inclusive and work within UCLU Equal Opportunities policy.
+	7. Attend the NUS Black Students' Conference
 
-	6. Chair the Activities Forum.
+	8. Be the Convenor of the Black and Ethnic Minority Students' Section
 
-####BME Students' Officer
+	9. Sit on Union Executive Committee
 
-49. The BME Students' Officer shall:
+#### Community Relations Officer
 
-	1. Self-define as black or minority ethnic
+35. The Community Relations Officer shall:
 
-	2. Represent the interests of BME students within the Union and Equality Forum
+	1. Jointly with the External Affairs & Campaigns Officer, be responsible for representing UCLU Members students in the local community, including to local and regional government.
 
-	3. Work with the Welfare & International Officer and Equality Officer
+	2. Coordinate campaigns related to issues within the local community that affect UCLU Members.
 
-	4. Coordinate campaigns related to issues affecting the BME community.
+	3. Report to the Union on issues in the local community that affect its Members.
 
-	5. Liaise with the NUS on BME issues.
+	4. Work with the Welfare and International Officer and Dean of Students (Welfare) on issues affecting student safety in the community.
 
-	6. Attend the NUS Black Students' Conference
+	5. Sit on Union Executive Committee
 
-####Community Officer
+#### Disabled Students' Officer
 
-50. The Community Officer shall:
+36. The Disabled Students' Officer shall:
 
-	1. Be responsible for representing UCL students in the local community.
+	1. Self-define as Disabled.
 
-	2. Coordinate campaigns related to issues within the local community that affect UCL students.
+	2. Represent the interests of Disabled Members within UCLU, UCL and beyond.
 
-	3. Report to the Union on issues in the local community that affect its members.
+	3. Work with the Welfare & International Officer.
 
-	4. Work with the Volunteering Services Unit to promote student volunteering.
+	4. Coordinate campaigns related to issues relevant to Disabled Members.
 
-	5. Work with the Welfare and International Officer to ensure adequate provision of satisfactory student accommodation.
+	5. Liaise with external organisations such as the NUS on issues relevant to Disabled Members.
 
-	6. Work with the Welfare and International Officer and Dean of Students (Welfare) on issues affecting student safety in the community.
+	6. Attend the NUS Disabled Students' Conference.
 
-	7. Chair the Community Forum.
+	7. Be the Convenor of the Disabled Students' Section
 
-####Disabled Students' Officer
+	8. Sit on Union Executive Committee
 
-51. The Disabled Students' Officer shall:
+#### Ethics and Environment Officer
 
-	1. Self-define as disabled.
-
-	2. Represent the interests of disabled students within the Union and Equality Forum.
-
-	3. Work with the Welfare & International Officer and Equality Officer.
-
-	4. Coordinate campaigns related to issues affecting the disabled student community.
-
-	5. Liaise with the NUS on disability issues.
-
-	6. Attend the NUS Disabled Students' Conference .
-
-####Education Officer
-
-52. The Education Officer shall:
-
-	1. Represent the students on academic issues within the Union.
-
-	2. Work with the Education and Campaigns Officer to represent students' academic concerns to College.
-
-	3. Ensure students are kept up to date on college issues that affect their education.
-
-	4. Chair the Education Forum.
-
-####Ethics and Environment Officer
-
-53. The Ethics and Environment Officer shall:
+37. The Ethics and Environment Officer shall:
 
 	1. Be responsible for ensuring that UCL Union operates in as ethically and environmentally sound manner as possible.
 
@@ -891,39 +1056,13 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Coordinate campaigns related to environmental and ethical matters.
 
-	4. Chair the Ethics and Environment Forum.
+	4. Sit on the UCLU Finance & Services Committee.
 
-	5. Sit on the UCLU Finance Committee.
+	5. Sit on Union Executive Committee
 
-####Equality Officer
+#### International Students' Officer
 
-54. The Equality Officer shall:
-
-	1. Promote equality to help ensure a fair, non-discriminatory Union in which all staff are treated with dignity and respect at all times.
-
-	2. Raise awareness and keep members informed on equality matters.
-
-	3. Offer support to members on equality related personal matters.
-
-	4. Support other Union officials on equality matters.
-
-	5. Play a leading role in raising awareness of members to the need for a zero tolerance approach to bullying and harassment within the Union and its activities.
-
-	6. Work to ensure that policies and practices within the Union are equality proofed.
-
-	7. Chair the Equality Forum.
-
-####First Year Representative
-
-55. The First Year Rep shall:
-
-	1. Be in their first year of undergraduate study at UCL.
-
-	2. Be responsible for representing the needs of first year undergraduates to the Union. Seek to proactively improve the engagement of first year students in Union activities.
-
-####International Students' Officer
-
-56. The International Students' Officer shall:
+38. The International Students' Officer shall:
 
 	1. Be a student whose normal place of residence is outside the UK.
 
@@ -935,47 +1074,31 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	5. Coordinate campaigns related to international student issues.
 
-	6. Chair the International Students' Forum.
+	6. Liaise with external organisations such as the NUS on issues relevant to International Student Members.
 
-####LGBT+ Officer
+	7. Be the Convenor of the International Students' Section.
 
-57. The LGBT+ Officer shall:
+#### LGBT+ Officer
 
-	1. Define as Lesbian, Gay, Bisexual, Trans* and/or any other gender/sexual minority including but not limited to Asexual spectrum, Queer, Intersex.
+39. The LGBT+ Officer shall:
 
-	2. Be responsible for representing the interests of LGBT+ students within the Union.
+	1. Self-define as Lesbian, Gay, Bisexual or Trans.
 
-	3. Coordinate campaigns related to issues affecting the LGBT+ community.
+	2. Be responsible for representing the interests of LGBT+ Members within UCLU, UCL and beyond.
 
-	4. Liaise with the NUS on LGBT+ issues.
+	3. Coordinate campaigns related to issues relevant to LGBT+ Members.
 
-	5. Attend the NUS LGBT Students' Conference.
+	4. Liaise with external organisations such as the NUS on issues relevant to LGBT+ Members..
 
-	6. Chair the LGBT+ Forum.
+	5. Attend the NUS LGBT+ Students' Conference.
 
-####Postgraduate Students' Officer
+	6. Be the Convenor of the LGBT+ Students' Section.
 
-58. The Postgraduate Students' Officer shall:
+	7. Sit on Union Executive Committee
 
-	1. Be a postgraduate student.
+#### RUMS Officer
 
-	2. Be responsible for bringing the views of postgraduate students to the Union.
-
-	3. Facilitate postgraduate representation to the College, including via regular meetings with the Graduate School.
-
-	4. Facilitate the development of a postgraduate student community by co-ordinating activities and events for postgraduate students.
-
-	5. Seek to proactively improve the engagement of postgraduates in Union activities.
-
-	6. Represent postgraduates externally to organisations such as the NUS.
-
-	7. Chair the PGA Forum.
-
-	8. Be the Postgraduate Association President
-
-####RUMS Officer
-
-59. The RUMS Officer shall:
+40. The RUMS Officer shall:
 
 	1. Be a medical student of UCL Medical School.
 
@@ -991,11 +1114,13 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	7. Represent UCL medical students within ULU Medgroup, the NUS and the BMA.
 
-	8. Chair the BMA Intra-School Committee (ISC) and the RUMS Forum.
+	8. Chair the BMA Intra-School Committee (ISC).
 
-####SOP Officer
+	9. Be the Convenor of RUMS
 
-60. The SOP Officer shall:
+#### School of Pharmacy Students' Officer (SoP Students' Officer)
+
+41. The SoP Students' Officer shall:
 
 	1. Be a student of UCL School of Pharmacy
 
@@ -1005,37 +1130,23 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	4. Seek to improve the engagement of School of Pharmacy students in the Union
 
-	5. Facilitate the growth of the SOP community by coordinating activities and events for SOP student as well as for the wider UCL student population.
+	5. Facilitate the growth of the SoP community by coordinating activities and events for SoP student as well as for the wider UCL student population.
 
 	6. Facilitate the relationship between UCL School of Pharmacy students and alumni.
 
 	7. Represent School of Pharmacy students to the Royal Pharmaceutical Society.
 
-	8. Chair the British Pharmaceutical Students' Association Intra-School committee and SOP Forum
+	8. Chair the British Pharmaceutical Students' Association Intra-School committee
 
-####Student Media Officer
+	9. Be the Convenor of the School of Pharmacy Students' Section
 
-61. The Student Media Officer shall:
+#### Union Chair
 
-	1. Be a member of a UCLU Media Society at the time of election.
-
-	2. Be responsible for representing the needs of UCLU Student Media societies to the Union.
-
-	3. Liaise with external organisations on issues related to student media.
-
-	4. Support the UCLU Student Media Societies.
-
-	5. Proactively seek to improve the profile of student media within UCLU.
-
-	6. Chair the Student Media Forum.
-
-####Union Chair
-
-62. The Union Chair shall:
+42. The Union Chair shall:
 
 	1. Ensure that the Union runs in a fair and democratic manner.
 
-	2. Chair Members' Meetings.
+	2. Chair General Assemblies.
 
 	3. Chair meetings of Union Council.
 
@@ -1043,33 +1154,109 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	5. Act as Returning Officer.
 
-####Women's Officer
+	6. Ensure that copies of passed Policies and other relevant democratic decisions are conveyed to the Union Executive Committee and all Officers.
 
-63. The Women's Officer shall:
+#### Women's Officer
+
+43. The Women's Officer shall:
 
 	1. Self-define as a woman.
 
-	2. Represent the interests of female students within the Union.
+	2. Represent the interests of women Members within UCLU, UCL and beyond.
 
-	3. Work with the Welfare and International Officer and Equality Officer.
+	3. Work with the Welfare and International Officer.
 
-	4. Coordinate campaigns related to issues affecting female students.
+	4. Coordinate campaigns related to issues relevant to women Members.
 
-	5. Liaise with external organisations such as the NUS on matters related to female students.
+	5. Liaise with external organisations such as the NUS on matters relevant to women Members.
 
-	6. Chair the Women's Forum.
+	6. Be the Convenor of the Women's Network.
 
-####Student Trustees
+	7. Sit on Union Executive Committee
 
-64. Student Trustees are elected in a cross-campus ballot of Union members in the first term of the academic year for a term of 12 months.
+#### Halls Accommodation Officer
 
-65. This 12 month term shall commence on 1st November of year they are elected and will continue until 31st October the following year.
+44. The Halls Accommodation Officer shall
 
-66. Student Trustees may not hold any other position within the Union's democratic structure. This does not apply to holding positions on the committees of Clubs and Societies.
+	1. Be a UCLU member who has lived in a UCL or University of London residence at some point in the two years prior to their election.
 
-####Accountability of Officers
+	2. Represent the needs of students currently living in Halls to UCL and other relevant authorities.
 
-67. All Officers are elected by and accountable to the students of UCL.
+	3. Assist Halls Representatives where they exist, and negotiate directly with Halls where they do not.
+
+	4. Liaise regularly with the Welfare and International Officer, Halls Representatives and the UCLU Rights and Advice Centre.
+
+	5. Campaign for adequate, affordable and accessible housing for UCL students.
+
+	6. Attend Accommodation Network meetings.
+
+	7. Work closely with, and receive the support of, the Welfare & International Officer.
+
+	8. Report regularly to the Union Executive Committee on the implementation of relevant policy.
+
+#### External Accommodation Officer
+
+45. The External Accommodation Officer shall
+
+	1. Represent the needs and demands of UCLU Members living outside UCL and University of London Halls.
+
+	2. Campaign for adequate, affordable and accessible housing for UCLU Members.
+
+	3. Defend and extend the housing rights of UCLU Members outside university accommodation as private and social tenants, lodgers and squatters.
+
+	4. Liaise regularly with the Welfare and International Officer and the UCLU Rights and Advice Centre.
+
+	5. Attend Accommodation Network meetings.
+
+	6. Work closely with, and receive the support of, the Welfare & International Officer and the External Affairs & Campaigns Officer.
+
+	7. Report regularly to the Union Executive Committee on the implementation of relevant policy.
+
+#### Slade Students' Officer
+
+46. The Slade Students' Officer shall
+
+	1. Be a current student at the Slade School of Fine Art
+
+	2. Be the lead representative of the student body of the Slade School of Fine Art to the Slade and to UCL
+
+	3. Campaign to defend and extend the rights of Slade students, including but not limited to academic, welfare and financial concerns.
+
+	4. Facilitate, along with departmental and informal practices, the social mixing of Slade students.
+
+	5. Perform, for the entertainment of all present, Slade's “Merry Christmas Everybody” at the final Union Council meeting before the Winter holiday.
+
+	6. Be the Convenor of the Slade Students' Association.
+
+#### Mature and Part-time Students' Officer
+
+47. The Mature and Part-Time Students' Officer shall:
+
+	1. Be at least one of the following:
+
+		1. Registered as a part-time student at UCL.
+
+		2. A student who began an undergraduate course after the age of 21, or a postgraduate course after the age of 25.
+
+	2. Coordinate representation and campaigning work for the needs and interests of mature and part-time UCLU Members within UCLU, UCL and beyond.
+
+	3. Ensure that all relevant facets of the work of UCLU and its other Officers cater appropriately for, and engage with, mature and part-time students.
+
+	4. Coordinate campaigns related to issues of interest to mature and part-time students.
+
+	5. Union provides activities, events and facilities appropriate and accessible to mature and part-time students.
+
+	6. Be the Convenor of the Mature and Part-Time Students' Section.
+
+#### Student Trustees
+
+48. Student Trustees are elected in a cross-campus ballot of Union members in the first term of the academic year for a term of 12 months.
+
+49. This 12 month term shall commence on 1^st^ November of year they are elected and will continue until 31^st^ October the following year.
+
+### Accountability of Officers
+
+50. All Officers are elected by and accountable to the students of UCL.
 
 	1. If a student has a question about the work, activity or conduct of an Officer they may email the Officer and should expect a response within 5 working days.
 
@@ -1079,223 +1266,287 @@ Union Council may vote to move in to a private session. There will be one speech
 
 		1. The posts may be removed if deemed to be inappropriate, offensive or constitutes bullying or harassment.
 
-####Motions of Censure
+#### Motions of Censure for a Non-sabbatical Officer elected by cross-campus ballot
 
-68. Where Officers on Union Council have failed to fulfil the duties of their post as outlined in the Byelaws but their conduct is not sufficiently serious to warrant a motion of no confidence, a motion of censure may be submitted to Union Council.
+51. Where Non-sabbatical Officers elected by cross-campus ballot have failed to fulfil the duties of their post as outlined in the Bye-Laws but their conduct is not sufficiently serious to warrant a motion of recall, a motion of censure may be submitted to a General Assembly.
 
-69. Motions of censure require at least one proposer and twenty-five seconders, all of whom must be members of the Union.
+52. Motions of censure can be submitted either as an ordinary motion, or as a motion proposed verbally at the time of any officer's report.
 
-70. On receipt of a motion of censure an emergency Union Council meeting shall be called.
+53. The motion of censure, written or verbal, must state the grounds for censure - political and/or technical.
 
-71. The motion of censure must state exactly what part of their job the Officer has failed to fulfil.
+54. If passed, motions of Censure shall be displayed on the union's website, under the oversight of the Union Chair.
 
-72. Union Council must rule out any motion which does not conform to the rules above.
+55. For the avoidance of doubt, purely political reasons for a censure shall be permissible.
 
-73. The motion must be displayed on the official Union website for 10 working days prior to the emergency Union Council meeting.
+Motions of Censure for Faculty and Hall Reps, Activity Network Officers and Autonomous Section Officers
 
-##Section 9 - Elections
+56. Faculty and Hall Reps, Activity Network Officers, and Autonomous Section Officers (including their Convenors) may be censured by the same procedure as Non-sabbatical Officers elected via cross-campus ballot, except that:
 
-1. The running of fair elections shall be the joint responsibility of the Democracy and Communications Officer and the Returning Officer on behalf of the Trustee Board and the Steering Committee. They shall ensure the elections are run in accordance with the Memorandum and Articles and Byelaws of the Union.
+	1. Only students eligible to vote in the election of the Officer in question may participate in proposing or voting on a motion of censure.
 
-	1. After each elections session the Democracy and Communications Officer shall submit a report to College Council and the Steering Committee.
+	2. Instead of a General Assembly, the motion must be proposed to a sectional meeting open to those members eligible to vote in the election of the Officer in question. This shall be a Hall Assembly, Faculty Assembly (exclusive to students of the relevant status), Activity Network meeting, or Autonomous Section open meeting.
+
+	3. If the Officer in question is chairing the meeting, another Officer or member of the section, or the Union Chair if present, must chair for the discussion of the motion.
+
+	4. An Autonomous Section's constitution may specify alternative mechanisms for the censure of that Section's Officers, including its President. If they do, the procedures described in this clause shall not apply.
+
+##Section 10 - Motions to Recall Officers
+
+### Recall procedure for a Non-sabbatical Officer elected by cross-campus ballot
+
+1. Subject to the law, the Members shall enjoy the right to recall any cross-campus elected Officer for any reason at any time via the following procedure.
+
+2. Recall motions may be submitted to the Union Chair and shall clearly list the reasons for the recall.
+
+3. On receipt of a recall motion, the Union Chair shall specify two General Assemblies at which it is to be discussed. These must be separated by at least a week, and both must occur within 3 term weeks of receipt of the motion. The meetings may be General Assemblies already scheduled or the Union Chair may call Extraordinary General Assemblies as necessary.
+
+4. Recall motions require at least one proposer and twenty five seconders, all of whom must be Union members and who must sign the motion along with stating their department and student number
+
+5. The motion must be displayed on the Union Notice Board for five working days prior to the first meeting
+
+6. The motion must be passed by a two-thirds majority at two consecutive meetings
+
+7. Once a recall motion has been passed at the first meeting the Officer in question will be immediately suspended from duty.
+
+8. If the motion is passed for a second time the Officer shall be deemed to have been dismissed with immediate effect.
+
+9. For the avoidance of doubt, purely political reasons for a recall shall be permissible in the case of Non-sabbatical Officers.
+
+### Recall and Censure Procedure for Sabbatical Officers
+
+10. The recall procedure for Sabbatical Officers elected by cross campus ballot shall be the same as the recall procedure for Non-sabbatical Officers elected by cross campus ballot, except that any motion of recall must state clearly:
+
+	1. what part of policy, Bye-Laws or Constitution the officer has breached; or
+
+	2. an allegation of gross misconduct
+
+11. The recall procedure for Sabbatical Officers elected by sectional ballot shall be the same as the recall procedure for non-sabbatical Officers elected by sectional ballot, except that any motion of recall must state clearly:
+
+	1. what part of policy, Bye-Laws or Constitution the officer has breached; or
+
+	2. an allegation of gross misconduct
+
+12. Officers accused of gross misconduct or a breach of policy, Bye-Laws or Constitution, may dispute the allegation at any time up to 5 working days before the second meeting. In this case the Union Chair shall convene a committee of 3 Sabbatical Officers from other University of London colleges to rule on the question. If this committee rules an allegation is not proven on the balance of probabilities, it will be struck from the motion and Members shall be prohibited from repeating the claim in any campaigning relating to them motion. This committee may not consider or comment on any other aspect of the matter.
+
+13. If Trustee Board receives legal advice indicating that it would likely be illegal to dismiss a Sabbatical Officer subject to a proposed or passed recall motion, it may decide to convert the recall motion into a motion of formal condemnation, with retroactive effect if necessary. This shall not alter or interrupt the procedure by which the motion is considered, but no dismissal shall result. Alternatively it may, on the basis of legal advice, strike some of the reasons for the recall from the motion and prohibit Members from citing the stricken reasons in any campaigning related to the motion.
+
+14. The Trustee Board may decide to delay the implementation of a passed recall motion for up to 2 weeks in order to receive any required rulings or legal advice, during which time the Officer in question shall be suspended from duty. However, if a need for rulings or legal advice is expected, the Trustees are encouraged to obtain it as quickly as reasonably possible and to avoid delaying the implementation of dismissal if reasonably possible.
+
+15. If all the reasons cited in a recall motion are struck out, the motion shall fall immediately.
+
+Recall procedure for Faculty and Hall Reps, Activity Network Officers and non-sabbatical Autonomous Section Officers
+
+16. Faculty and Hall Reps, Activity Network Officers, and non-sabbatical Autonomous Section Officers (including their Convenors) may be recalled by the same procedure as non-sabbatical Officers elected via cross-campus ballot, except that:
+
+	1. Only students eligible to vote in the election of the position in question may participate in proposing or voting on a recall motion.
+
+	2. Instead of General Assemblies, the votes must pass two-thirds majority votes at two consecutive sectional meetings open to those members eligible to vote in the election of the position in question. This shall be a Hall Assembly, Faculty Assembly (exclusive to students of the relevant status), Activity Network meeting, or Autonomous Section open meeting.
+
+	3. Quorum for these meetings shall be 50 members with voting rights on the matter, or 1% of the Members with voting rights, whichever is greater.
+
+	4. These meetings shall be called and chaired by the Union Chair.
+
+	5. An Autonomous Section's constitution may specify alternative mechanisms for the recall of that Campaign's Officers, including its President. If they do, the procedures described in this clause shall not apply.
+
+##Section 11 - Elections
+
+1. The running of fair elections shall be the joint responsibility of the Democracy and Communications Officer and the Returning Officer on behalf of the Trustee Board and the Elections Committee. They shall ensure the elections are run in accordance with the Memorandum and Articles and Bye-Laws of the Union.
+
+	1. After each elections session the Democracy and Communications Officer shall submit a report to College Council and the Elections Committee.
 
 2. The Democracy and Communications Officer shall publish an elections schedule for the forthcoming term in the first week of the new term, the elections schedule should include dates and times for the opening and closing of nominations and voting.
 
-3. The conduct of the elections shall be carried out in line with the Guidance Document on Elections and the Union Memorandum and Articles and Byelaws.
+3. The conduct of the elections shall be carried out in line with the Guidance Document on Elections and the Union Memorandum and Articles and Bye-Laws.
 
 4. Eligibility to run for election and hold any Union position is based on the meeting of certain criteria:
 
-	1. Forum Chairs must be eligible to enrol for the following year to continue their programme of study.
+	1. A Non-Sabbatical Officer elected in the Spring Elections to begin their term in the following Autumn must be eligible to enrol for the following year to continue their programme of study.
 
 	2. Sabbatical Officers who will have completed, terminated, intermitted or suspended their studies at the start of their appointment must be accepted as an affiliate student for their year as a Sabbatical Officer.
 
-	3. A candidate who fails to meet the above requirements shall be withdrawn from the elections and a recount will be carried out for defeated candidates that are still eligible and willing to participate.
+	3. A candidate who fails to meet the above requirements shall be withdrawn from the elections. If the election has already occurred, the Officer or Officer-elect shall be removed from their post and a Bye-Election held.
 
-###Voting
+### Voting
 
 5. No member shall have more than one vote.
 
-6. The voting period for any position shall run for at least 3 working days.
+6. The voting period for any position shall run for at least 3 working days, except for positions elected at a meeting.
 
-7. Voting shall be done by secret ballot using the Alternative Vote / Single Transferable Vote system, as detailed by the Electoral Reform Society of Great Britain and Northern Ireland, and including Reopen Nominations as a candidate in single vacancy elections.
+7. Voting shall be done by secret ballot using the Alternative Vote / Single Transferable Vote system, as detailed by the Electoral Reform Society of Great Britain and Northern Ireland, and including Reopen Nominations as a candidate in all elections.
 
-8. Union Council and Steering Committee have the duty to determine and amend the Guidance Document on Elections.
+8. Union Council, with the guidance of Elections Committee, shall be responsible for determining and amending the Guidance Document on Elections.
 
-###Positions
+### Positions
 
 9. The following positions shall be elected via cross-campus ballot:
 
-	1. Sabbatical Officers.
+	1. Democracy & Communications Officer
 
-	2. Student Trustees.
+	2. Education & Campaigns Officer
 
-	3. Union Chair.
+	3. Ethics, Environment & Operations Officer
 
-	4. Education Officer.
+	4. External Affairs & Campaigns Officer
 
-	5. Activities Officer.
+	5. Activities & Events Officer
 
-	6. Community Officer.
+	6. Welfare & International Officer
 
-	7. Student Media Officer.
+	7. Student Trustees.
 
-	8. Equality Officer.
+	8. Union Chair.
 
-	9. Women's Officer.
+	9. Activities Officer.
 
-	10. NUS Delegates.
+	10. Community Relations Officer.
+
+	11. NUS Delegates.
+
+	12. Halls Accommodation Officer
+
+	13. External Accommodation Officer
+
+	14. Ethics & Environment Officer
 
 10. The following positions shall be elected via sectional elections:
 
-	1. International Students' Officer.
+	1. Academic Section Convenors shall be elected by members of the respective Academic Sections
 
-		1. Elected by international students.
+	2. Liberation Section Convenors shall be elected by self-defining members of the respective Liberation Sections
 
-	2. LGBT+ Officer.
+	3. The Medical, Pharmacy and Health Students' Officer shall be elected by members of UCLU who are students in one of the following:
 
-		1. Elected by students who self-define as who shall define as Lesbian, Gay, Bisexual, Trans* and/or any other gender/sexual minority including but not limited to Asexual spectrum, Queer, Intersex.
+		1. UCL Medical School
 
-	3. RUMS Officer.
+		2. UCL School of Pharmacy
 
-		1. Elected by medical students.
+		3. UCL Eastman Dental Institute
 
-	4. SSEES Officer.
+		4. Any other allied health School or Institute within UCL
 
-		1. Elected by students of SSEES.
-		
-	5. Postgraduate Students' Officer.
+	4. Halls Representatives and Faculty Representatives
 
-		1. Elected by postgraduate students.
+		1. Elected as described below
 
-	6. First Year Rep.
+11. Halls Representatives
 
-		1. Elected by first year students.
+	1. Shall represent the interests of students within their Hall to the Union and College.
 
-	7. SOP officer
+	2. Shall be resident in the UCL Hall they are elected to represent.
 
-		1. Elected by students of UCL School of Pharmacy
+	3. Shall be elected by the residents in their respective Hall.
 
-	8. BME Students' Officer
+	4. Shall be elected in a UCLU election in the first term of the academic year for which they are to hold office.
 
-		1. Elected by students who self-define as BME.
+12. Faculty Representatives
 
-	9. Disabled Students' Officer
+	1. Shall represent the interests of students of their status within their Faculty to the Union, on Union Council, and to College.
 
-		1. Elected by students who self-define as disabled.
+	2. Shall be enrolled on a programme of study within the Faculty they are elected to represent.
 
-	10. Hall Representatives
+	3. Shall be elected by the students of their status in their respective faculty.
 
-		1. Shall represent the interests of students within their Hall to the Union and College.
+	4. Shall be elected in a UCLU election in the first term of the academic year for which they are to hold office.
 
-		2. Shall be resident in the UCL Hall they are elected to represent.
+13. All Faculties shall elect at least one Faculty Rep from each of the following student statuses, provided that each exists within the Faculty:
 
-		3. Shall be elected by the residents in their respective Hall.
+	1. Undergraduate (UG)
 
-		4. Shall be elected in a UCLU election in the first term of the academic year that they are to hold office for.
+	2. Postgraduate Taught (PGT)
 
-	11. Faculty Representatives
+	3. Postgraduate Research (PGR) (including PhD and MRes students)
 
-		1. 
+14. The remaining Faculty Reps shall be allocated on the following basis:
 
-			1. Shall represent the interests of students within their Faculty to the Union, on Union Council, and to College.
+	1. The remaining Faculty Reps shall be divided amongst the Faculties in proportion to their student numbers.
 
-			2. Shall be enrolled on a programme of study within the Faculty they are elected to represent.
+	2. Once allocated to faculties, these Faculty Reps shall be elected as UG, PGT or PGR in proportion to the make-up of their Faculty.
 
-			3. Shall be elected by the students in their respective faculty.
+15. The terms and election schedules for officers shall be as follows:
 
-			4. Shall be elected in a UCLU election in the first term of the academic year that they are to hold office for.
+	1. The following officers shall be elected in October and shall serve from the date of their election until the close of the October election occurring in the following year:
 
-		2. All Faculties shall elect at least one Faculty Rep from each of the following student statuses, provided that each exists within the Faculty:
+		1. UG and PGT Faculty Reps
 
-			1. Undergraduate (UG)
+		2. Halls Reps
 
-			2. Postgraduate Taught (PGT)
+		3. NUS Delegates
 
-			3. Postgraduate Research (PGR) (including PhD and MRes students)
+	2. All Autonomous Section Officers other than the Convenors, and all Officers elected within the Activities Network, shall be elected and hold office in accordance with the relevant Section Constitution or Guidance Document.
 
-		3. The remaining Faculty Reps shall be allocated on the following basis:
+	3. All other Officers shall be elected in the Spring Elections, and shall serve from 1^st^ August in the year of their election until 31^st^ July the following year.
 
-			1. The remaining Faculty Reps shall be divided amongst the Faculties in proportion to their student numbers.
+### Procedures
 
-			2. Once allocated to faculties, these Faculty Reps shall be elected as UG, PGT or PGR in proportion to the make-up of their Faculty.
+16. Elections should be held at times that enable the largest possible number of members to vote.
 
-	13. All Officers sectionally elected by postgraduate students shall be elected in the first term of the academic year for which they are to hold office.
+17. Nominations shall be open for at least 5 working days before they close.
 
-	14. All other Officers shall be elected in the second term in the academic year preceding their term of office.
+18. Detailed notice of elections shall be given at least 5 working days in advance of the opening of nominations.
 
-###Procedures
+19. A candidates' meeting must be held following the closure of nominations at a time specified by the Returning Officer.
 
-15. Elections should be held at times that enable the largest possible number of members to vote.
+20. Nomination papers must include the full name and student number of those nominated.
 
-16. Nominations shall be open for at least 5 working days before they close.
+21. The Democracy and Communications Officer shall compile and check the submissions once the nominations period has closed.
 
-17. Detailed notice of elections shall be given at least 5 working days in advance of the opening of nominations.
+22. Written notification of a candidate's resignation shall be given to the Democracy and Communications Officer, the resignation cannot be reconsidered once it has been submitted.
 
-18. A candidates' meeting must be held following the closure of nominations at a time specified by the Returning Officer.
+23. The Democracy and Communications Officer shall organise events at which students will have the opportunity to hear candidates speak and ask them questions.
 
-19. Nomination papers must include the full name and student number of those nominated.
+24. The Democracy and Communications Officer shall organise and chair a public husting at which Sabbatical Officer candidates shall debate one another and answer questions from students. Topics for debate shall be determined by the questions asked, and may also include equal opportunity for candidates to select topics. The Democracy and Communications Officer shall not select topics for debate.
 
-20. The Democracy and Communications Officer shall compile and check the submissions once the nominations period has closed.
+25. The Democracy and Communications Officer shall also ensure that there is online provision for students to be able to ask questions of the candidates.
 
-21. Written notification of a candidate's resignation shall be given to the Democracy and Communications Officer, the resignation cannot be reconsidered once it has been submitted.
+### Campaigning Materials
 
-22. The Democracy and Communications Officer shall organise events at which students will have the opportunity to speak to candidates and ask them questions.
+26. All campaigning materials must meet the requirements of the Guidance Document on Elections.
 
-23. The Democracy and Communications Officer shall also ensure that there is online provision for students to be able to ask questions of the candidates.
+27. All candidates in an election shall receive a publicity allowance at a level set in the Guidance Document on Elections. Expenditure must not exceed this allowance, and UCLU shall fully reimburse all spending within the allowance that does not contravene elections rules.
 
-###Campaigning Materials
+### Conduct
 
-24. All campaigning materials must meet the requirements of the Guidance Document on Elections.
+28. Candidates must conduct themselves in line with the Guidance Document on Elections.
 
-25. All candidates in an election shall receive a publicity allowance at a level set through an agreement at Steering Committee.
+29. Candidates breeching these regulations will be subject to the disciplinary procedures as outlined in the Guidance Document.
 
-###Conduct
+30. Campaigning period shall run for at least 3 working days before the opening of voting. No campaigning may take place before the start of the campaigning period.
 
-26. Candidates must conduct themselves in line with the Guidance Document on Elections.
+31. Complaints about the conduct of a candidate must be submitted to the Returning Officer in accordance with the Guidance Documents on Elections.
 
-27. Candidates breeching these regulations will be subject to the disciplinary procedures as outlined in the Guidance Document.
+32. Complaints will be dealt with as outlined by the Guidance Document on Elections.
 
-28. Campaigning period shall run for at least 3 working days before the opening of voting. No campaigning may take place before the start of the campaigning period.
+### By-Elections
 
-29. Complaints about the conduct of a candidate must be submitted to the Returning Officer in accordance with the Guidance Documents on Elections.
+33. Any vacancy, other than that of a Sabbatical Officer, which arises during the year, should be reported by the Democracy and Communications Officer to the next meeting of Union Council. A by-election will then be held with the next set of elections, unless deemed feasible by Union Council to bring that by-election forward.
 
-30. Complaints will be dealt with as outlined by the Guidance Document on Elections.
-
-31. The Guidance Document on Elections may be changed by a 75% majority vote at two quorate meetings of Union Council.
-
-###By Elections
-
-32. Any vacancy, other than that of a Sabbatical Officer, which arises during the year, should be reported by the Democracy and Communications Officer to the next meeting of Union Council. A by-election will then be held with the next set of elections, unless deemed necessary by Union Council to bring that by-election forward.
-
-33. In the event of a vacancy for a Sabbatical Position occurring, a by-election should be held at the discretion of Union Council.
+34. In the event of a vacancy for a Sabbatical Position occurring, a by-election must be held within four term weeks.
 
 	1. If before the start of the academic year then a Sabbatical Officer may be elected to the full time position.
 
 	2. If after the start of the academic year then an Acting Sabbatical Officer may be elected.
 
-###Counting
+### Counting
 
-34. The timing of the close of voting and count shall be set by the Returning Officer.
+35. The timing of the close of voting and count shall be set by the Returning Officer.
 
-35. Complaints about the count must be made in writing to the Returning Officer no later than 1 working day after the announcement of the result.
+36. Complaints about the count must be made in writing to the Returning Officer no later than 1 working day after the announcement of the result. The complaint shall be considered by the Elections Committee. Members of the Elections Committee with a conflict of interest, or who seconded the nomination of a candidate for the position in question, or who otherwise do not feel able to remain impartial, shall not participate.
 
-	1. A complaints panel will be convened by the Returning Officer that consists of 3 members of Union Council, at least 1 of whom is a Non-Sabbatical Officer and 1 is a Sabbatical Officer.
+37. The results of all Union Elections shall be certified by the Returning Officer.
 
-36. The results of all Union Elections shall be certified by the Returning Officer.
+##Section 12 - Subcommittees of Union Council, the Union Executive Committee and the Trustee Board
 
-##Section 10 - Committees of the Trustee Board
+1. The roles and responsibilities of Union Council, the Union Executive Committee and the Trustee Board are set out in the Memorandum and Articles and Bye-Laws of the Union.
 
-1. The roles and responsibilities of the Trustee Board are set out in the Memorandum and Articles of the Union.
-
-2. Committees of the Trustee Board exist to facilitate their activity as well as opening it up to increased student involvement and improved transparency.
+2. Subcommittees exist to facilitate these bodies' activities as well as opening them up to increased student involvement and improved transparency.
 
 3. Union Council shall receive, via the Chairs of the Committees, written reports of the meetings and decisions taken by them.
 
-4. Decisions of Committees may be referred back to the Committees for review by a simple majority of Union Council. The Trustee Board will have a moral obligation to review issues referred back to them.
+4. Decisions of Committees may be referred back to the Committees for review by a simple majority of Union Council. The Trustee Board will have an obligation to review issues referred back to them.
 
-5. The Committees of the Trustee Board are those outlined in the Byelaws.
+5. The Committees of the Trustee Board are those outlined in the Bye-Laws.
 
-###Finance Committee
+### Finance & Services Committee: a subcommittee of the Trustee Board
 
 6. Membership of the Finance Committee shall be:
 
@@ -1305,9 +1556,9 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Ethics and Environment Officer.
 
-	4. 3 Student Trustees appointed by Trustee Board.
+	4. 2 Student Trustees appointed by Trustee Board.
 
-	5. 4 members of Union Council appointed by Union Council.
+	5. 4 members of Union Council elected by Union Council.
 
 7. In attendance shall be:
 
@@ -1315,7 +1566,7 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	2. Finance Manager.
 
-	3. 1 External Trustee (Alumni, College or Professional).
+	3. Any UCLU Members who wish to attend as observers.
 
 8. The Committee, constitutionally, considers strategic options for, and the overall general management of, the Union's finances, including setting annual budgets, key performance objectives, and monitoring the financial performance of the organization. It is charged with:
 
@@ -1335,15 +1586,15 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	8. Considering and taking action on writing off losses or deficiencies on money, stocks, irrecoverable debts, overpayment and the disposal of obsolete equipment.
 
-	9. Considering the reports, recommendations and requests of Referenda, Members' Meetings and Union Council and make recommendations on their financial implications. No policies made by any of the above bodies that have financial implications shall be binding until they have been approved by the Finance Committee.
+	9. Considering the Policies, reports, recommendations and requests of Referenda, General Assemblies and Union Council and make recommendations on their financial implications.
 
-9. Quoracy of the Committee shall be 4 student members.
+9. Quoracy of the Committee shall be 50%, to include at least 2 non-Sabbatical members.
 
-10. The Finance Committee will report to the Trustee Board, through submission of its minutes.
+10. The Finance & Services Committee will report to the Trustee Board, through submission of its minutes.
 
 11. The Chair shall provide a written report on discussions and decisions taken at the Committee to Union Council. Union Council may refer a matter back for review by the Committee and the Committee shall have an obligation to review the issue.
 
-###Human Resources Committee
+### Human Resources Committee: a subcommittee of Trustee Board
 
 12. Membership of the Human Resources Committee shall be:
 
@@ -1351,13 +1602,13 @@ Union Council may vote to move in to a private session. There will be one speech
 
 13. In attendance shall be:
 
-	1. 1 External Trustee (Alumni, College or Professional).
+	1. General Manager.
 
-	2. General Manager.
+	2. UCLU HR Representative.
 
-	3. HR Representative.
+	3. UCL HR Representative.
 
-	4. UCL HR Representative.
+	4. Other UCLU staff proposed by the General Manager and agreed by the Chair.
 
 14. The Chair of the Committee shall be the Ethics, Environment and Operations Officer
 
@@ -1365,13 +1616,13 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	1. Conditions of Service
 
-		1. Ensure the appointment of Union Staff (other than Student Staff) on UCLU / UCL terms and conditions of employment (as appropriate).
+		1. Ensure the appointment of Union Staff (other than Student Staff) on UCLU / UCL terms and conditions of employment (as appropriate), ensuring that Union Staff remuneration meets the requirements of the London Living Wage.
 
-		2. Determine the rate of student-staff remuneration ensuring that this meets the requirements of National Minimum Wage (Adult).
+		2. Determine the rate of student-staff remuneration ensuring that this meets the requirements of the London Living Wage.
 
 	2. New Appointments, Redundancy and Dismissal
 
-		1. Consider proposals for new staff appointments. Where such proposals result in an increase in staff costs the additional expenditure must be approved by the Finance Committee.
+		1. Consider proposals for new staff appointments. Where such proposals result in an increase in staff costs the additional expenditure must be approved by the Finance & Services Committee.
 
 		2. Consider proposals for staff redundancy.
 
@@ -1379,69 +1630,91 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Authority
 
-		1. Human Resources Committee will undertake its business in accordance with a timetable of key tasks approved by the Trustee Board.
+		1. Human Resources Committee will undertake its business in accordance with a timetable of key tasks approved by the Trustee Board
 
 		2. Human Resources Committee will report to the Trustee Board via submission of its minutes.
 
 16. Quoracy of the Committee shall be one quarter of the membership.
 
-17. The Chair shall provide written reports on its decisions to Union Council, but shall not disclose matters relating to the responsibilities, conditions of employment, performance or conduct of individual members of staff. Union Council retains the right to refer a decision back for the Committee's further consideration and the Committee has an obligation to review the issue.
+17. The Chair shall provide written reports on its decisions to Union Council, but shall not disclose matters relating to the responsibilities, conditions of employment, performance or conduct of individual members of staff. Union Council retains the right to refer a decision back for the Committee's further consideration and the Committee has an obligation to review the issue, or to refer the matter on to the Trustee Board.
 
-###Steering Committee
+### Elections Committee: a subcommittee of Union Council
 
-18. Membership of Steering Committee shall be:
+18. Membership of the Elections Committee shall be:
 
-	1. All Sabbatical Officers.
+	1. All Sabbatical Officers
 
-	2. Chair of Union Council.
-
-	3. 3 Student Trustees appointed by Trustee Board.
-
-	4. 3 members of Union Council appointed by Union Council.
+	2. 7 students elected by Union Council
 
 19. In attendance shall be:
 
-	1. Membership Services Manager.
+	1. The General Manager
 
-	2. General Manager.
+	2. Other staff members as invited by the General Manager and Agreed by the Chair
 
-	3. 2 External Trustees (Alumni, College or Professional).
+20. The Chair of the Elections Committee shall be the Democracy and Communications Officer
 
-20. The Chair of the Committee shall be the Democracy and Communications Officer.
+21. The Committee shall
 
-21. The Committee shall have the responsibility for ensuring the smooth running of the government of the Union, with particular reference to committee structure, terms of reference, delegation of powers and the running of fair elections.
+	1. Have responsibility for the smooth running and promotion of UCLU's elections as outlined in the Memorandum and Articles and Bye-Laws
 
-22. The Committee shall:
+	2. Offer guidance to Union Council relating to the creation and any revisions of the Elections Guidance Document.
 
-	1. Annually review the membership of committees.
+	3. Enforce, or delegate the enforcement of, the Guidance Document on Elections.
 
-	2. Report to the Trustee Board and Union Council on the constitutional structure of the Union, changes to the Memorandum and Articles, Byelaws and regulations.
+	4. Produce and annual evaluation for Union Council and Trustee Board on the effectiveness of UCLU's democratic structures and participation rates within them.
 
-	3. Interpret the Union Memorandum and Articles and Byelaws on any matter that may be referred to the Committee.
+	5. Report to Union Council
 
-	4. Consider issues of Union governance arising from legislative or institutional requirements.
+	6. No member of Elections Committee may stand in any UCLU election unless they resign from the committee before the opening of nominations.
 
-23. Quoracy of the Committee shall be one quarter of the membership.
+### Steering Committee: a subcommittee of the Trustee Board
 
-24. The Steering Committee will report to the Trustee Board, through submission of its minutes.
+22. Membership of the Steering Committee shall be:
 
-25. The Chair shall provide a written report on discussions and decisions taken at the Committee to Union Council. Union Council may refer a matter back for review by the Committee and the Committee shall have an obligation to review the issue.
+	1. The Union Chair
 
-###Sports Grounds Committee
+	2. The Democracy & Communications Officer
+
+	3. 5 non-Trustee Union members elected at Union Council
+
+	4. 4 trustees elected from the Sabbatical Trustees and Student Trustees on Trustee Board
+
+23. Any UCLU Member may attend meetings of the Steering Committee.
+
+24. The Committee shall:
+
+	1. Have the power to interpret and clarify the Memorandum and Articles and Bye-Laws if there is confusion as to their meaning, or if there is contradiction within any single constitutional text.
+
+	2. Meet only when required to do so:
+
+		1. by a majority vote of the Trustee Board, the Union Executive Committee or Union Council,
+
+		2. by joint agreement of the Union Chair and the Democracy & Communications Officer, or
+
+		3. if Bye-Laws are suspended using Bye-Law 1.4.C
+
+	3. Report its activities and decisions to Union Council and the Trustee Board.
+
+25. The Chair of the Steering Committee shall be the Union Chair.
+
+### Sports Grounds Committee: a subcommittee of the Trustee Board
 
 26. Membership of Sports Grounds Committee shall be:
 
-	1. Student Activities Officer.
+	1. Activities and Events Officer.
 
 	2. Ethics, Environment and Operations Officer.
 
 	3. Activities Officer.
 
-	4. Medical and Postgraduate Students' Officer.
+	4. Postgraduate Students' Officer.
 
 	5. Sports Officer.
 
-	6. 5 representatives of UCLU Sports Clubs elected from the Activities Forum.
+	6. 5 representatives of UCLU Sports Clubs elected from the Activities Network.
+
+	7. 1 representative to be nominated by RUMS
 
 27. In attendance shall be:
 
@@ -1459,17 +1732,19 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	7. General Manager.
 
+	8. Any UCLU Member who wishes to attend as an observer.
+
 28. The Committee shall:
 
-	1. consider and report to Finance Committee:
+	1. consider and report to Finance & Services Committee:
 
 		1. The annual income and expenditure budget for the coming year
 
 		2. Statements on actual income and expenditure throughout the year, and projected outturn
 
-		3. Recommend to Finance Committee the adoption of financial statements for the preceding year.
+		3. Recommend to Finance & Services Committee the adoption of financial statements for the preceding year.
 
-	2. Develop and recommend to Finance Committee long-term forecasts of income and expenditure in respect of the sports grounds and pavilion.
+	2. Develop and recommend to Finance & Services Committee long-term forecasts of income and expenditure in respect of the sports grounds and pavilion.
 
 	3. Ensure that the grounds and pavilion deliver the targeted levels of customer satisfaction, identifying opportunities for new or alternative services in line with changing customer profiles
 
@@ -1491,19 +1766,51 @@ Union Council may vote to move in to a private session. There will be one speech
 
 31. The Chair shall provide a written report on discussions and decisions taken at the Committee to Union Council. Union Council may refer a matter back for review by the Committee and the Committee shall have an obligation to review the issue.
 
-##Section 11 - NUS Delegation
+### Student Media Committee: a subcommittee of the Union Executive Committee
 
-1. This section and the points contained in it refer to any policy making conference of the NUS.
+32. The membership of Student Media Committee shall be:
 
-2. In the event that the NUS governing documents or policies contradict the Memorandum and Articles and Byelaws of the Union, the Memorandum and Articles and Byelaws of the Union shall take precedence.
+	1. The Democracy and Communications Officer (Chair)
 
-###Delegation Leader
+	2. The Activities and Events Officer (Secretary)
 
-3. The Education and Campaigns Officer shall attend all NUS Conferences ex-officio and shall be the delegation leader.
+	3. One delegate from each UCLU society self-defining as a media society and approved as such by either the Activities and Events Officer or the Union Council
 
-4. The delegation leader may wave their right to attend non-policy making conferences.
+33. In attendance shall be
 
-5. The delegation leader shall call a pre-conference delegation meeting for the elected conference delegates that shall discuss:
+	1. The General Manager or an appropriate appointee of the General Manager.
+
+	2. Any Union member who wishes to attend as an observer.
+
+	3. A legal expert if invited by the Chair.
+
+34. The Student Media Committee shall
+
+	1. Provide a forum for members to share information, raise matters of concern and drive forward the Student Media activities in the best interests of students
+
+	2. Consider complaints related to UCLU media.
+
+	3. Consider potential liability for libel action against the Union concerning student-generated Media.
+
+	4. Report regularly to Union Council and the Union Executive Committee.
+
+##Section 13 - NUS Delegation
+
+1. This section shall apply only when UCLU is affiliated to the National Union of Students and shall not be construed to imply that UCLU is required to retain such affiliation.
+
+2. This section and the points contained in it refer to any policy making conference of the NUS.
+
+3. In the event that the NUS governing documents or policies contradict the Memorandum and Articles and Bye-Laws of the Union, the Memorandum and Articles and Bye-Laws of the Union shall take precedence.
+
+### Delegation Leader
+
+4. The External Affairs and Campaigns Officer shall attend NUS National and Extraordinary Conferences ex-officio as the delegation leader.
+
+5. In the absence of an elected delegate or specification otherwise elsewhere in the Bye-Laws, the External Affairs and Campaigns Officer may represent UCLU at all NUS Conferences which he or she is entitled to attend under NUS Rules.
+
+### NUS National Conferences
+
+6. Ahead of NUS National and Extraordinary Conferences, the delegation leader shall call a pre-conference delegation meeting for the elected conference delegates that shall discuss:
 
 	1. Procedure of NUS conferences.
 
@@ -1511,19 +1818,23 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Any Union policy that refers to those issues.
 
-6. There shall be a deputy delegation leader; the person receiving the most first preference votes in the delegation elections.
+7. There shall be a deputy delegation leader; the person receiving the most first preference votes in the delegation elections.
 
-7. The delegation leader, after consulting with the delegates, shall produce a report on the decisions taken at conference for presentation no later than the second Union Council meeting of the term following any conference.
+8. The delegation leader, after consulting with the delegates, shall produce a report on the decisions taken at conference for presentation no later than the second Union Council meeting of the term following any conference.
 
-###Delegates
+### NUS Delegates
 
-8. Delegates shall attend NUS Annual Conference and NUS Extraordinary Conferences.
+9. NUS Delegates shall attend NUS Annual Conference and NUS Extraordinary Conferences.
 
-9. Delegates may wave their right to attend non-policy-making conferences.
+10. Delegates must follow the Memorandum and Articles and Bye-Laws at all times.
 
-10. Delegates must follow the Union policy, Memorandum and Articles and Byelaws at all times.
+11. Delegates must vote in line with Union Policy, except that:
 
-11. Delegates who are not members of Union Council should attend the following Union Council meetings.
+	1. Delegates may abstain on any motion.
+
+	2. Delegates who are elected on a manifesto that contradicts Union Policy may vote in line with their manifesto.
+
+12. Delegates should attend the following Union Council meetings.
 
 	1. All meetings where motions to NUS conferences are to be discussed.
 
@@ -1531,51 +1842,65 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Any meetings which conference reports are presented to.
 
-12. Delegates should attend all Members' Meetings where motions to NUS conferences are to be discussed
+13. Delegates should attend all General Assemblies where motions to NUS conferences are to be discussed
 
-13. All delegates will submit a report to Union Council, including a record of the way they voted for all motions, all voting preferences in NUS NEC elections and all voting in other elections. This report must be submitted to the second Union Council of the term immediately following the conference.
+14. All delegates will submit a report to Union Council, including a record of the way they voted for all motions and all voting preferences in NUS Elections. This report must be submitted to the second Union Council of the term immediately following the conference.
 
-###Motions to NUS Conference
+15. The Democracy and Communications Officer shall ensure delegates receive a copy of current Union policy and will advise the delegation on how this relates to the issues to be discussed.
 
-14. The Union may submit motions to NUS conference. Any motions submitted must have been passed by a Referendum, Members' Meeting or meeting of Union Council.
+### Motions to NUS National or Extraordinary Conference
 
-15. Amendments proposed to the NUS conference must be passed in the same way as a motion, see point 14.
+16. The Union may submit motions or amendments to NUS conference. Any motions or amendments submitted must have been passed by a Referendum, General Assembly or meeting of Union Council.
 
-16. The Union Chair shall sign all motions and amendments before submission to NUS Conferences. In their absence a Sabbatical Officer will sign it.
+17. The Union Chair shall sign all motions and amendments before submission to NUS Conferences. In their absence a Sabbatical Officer will sign it.
 
-###Voting
+### NUS Zone Conferences
 
-17. The delegation shall speak and vote as a whole according to (in the following order):
+18. UCLU shall send delegates to NUS Zone Conferences
 
-	1. Policy of the Union.
+19. UCLU shall select its voting delegate to each NUS Zone Conference by an election at Union Council, in which any student may stand.
 
-	2. specific instructions from a Members' Meeting.
+20. In the absence of an election, the External Affairs and Campaigns Officer shall have the right to attend and vote at Zones, or to delegate the Union's vote to any other Union Officer or NUS Delegate.
 
-	3. specific instructions from Union Council.
+21. Other Union Officers and NUS Delegates may attend Zones as observers.
 
-18. The Democracy and Communications Officer shall ensure delegates receive a copy of current Union policy and will advise the delegation on how this relates to the issues to be discussed.
+22. Delegates at Zone Conferences must follow Union Policy in the same way as delegates to National and Emergency conferences, and in Zone Committee elections should vote for candidates whose platforms reflect Union Policy.
 
-19. Any member may speak as they wish provided they indicate that their speech is made in a personal capacity.
+### NUS Liberation and Section Conferences
 
-20. Delegates may abstain from motions as a matter of principle.
+23. UCLU shall send voting delegates and motions to NUS Liberation and Section conferences
 
-21. There shall be a free vote on procedural motions and on any motions where the delegation is not bound by Union policy, the Memorandum and Articles or Byelaws.
+24. The process of electing delegates and passing motions to these conferences shall be set out in the constitution of the corresponding UCLU Autonomous Sections.
 
-##Section 12 - Staffing
+25. If the Autonomous Section's provisions fail, through inquoracy or otherwise, to select sufficient delegates, then on the request of the Autonomous Section's Convenor:
+
+	1. The relevant Autonomous Section Convenor shall attend as a delegate, and, if UCLU is allocated multiple delegates, members of the Autonomous Section's Executive Committee shall elect from their number further delegates to go to the conference.
+
+	2. In the absence of sufficient willing and able delegates elected via 13.25.A, members of Union Council who are represented by the NUS Liberation Campaign or Section may elect from their number further delegates to go to the conference..
+
+	3. There shall be no quorum for the elections in 13.25.A and B.
+
+	4. In the absence of sufficient willing and able delegates in 13.25.A and B, the External Affairs and Campaigns Officer, and then NUS Delegates, and then other Sabbatical Officers may attend the conference, providing that they self-define into the Liberation Campaign or are represented by the NUS Section.
+
+26. The External Affairs and Campaigns Officer shall work with UCLU Autonomous Sections to ensure that delegates and motions can be sent to conferences.
+
+27. Delegates to Liberation and Section Conferences shall be bound to vote according to Union Policy with same conditions and exemptions as NUS Delegates, except that they shall first be bound to adhere to the corresponding UCLU Autonomous Section's Sectional Constitution and Policies.
+
+##Section 14 - Staffing
 
 1. The Union shall be empowered to appoint staff who shall be responsible to the Union Officers through an established management structure.
 
-2. All matters related to the responsibilities, conditions of employment, performance or conduct of individual members of staff shall be the responsibility of the Human Resources Committee and shall not be discussed at any other Committee, Council, Members' Meeting or Referenda except as provided for elsewhere in the Byelaws.
+2. All matters related to the responsibilities, conditions of employment, performance or conduct of individual members of staff shall be the responsibility of the Human Resources Committee and shall not be discussed at any other Committee, Unionc Council, General Assembly or Referenda except as provided for elsewhere in the Bye-Laws.
 
 3. Complaints about members of staff shall be referred to the Sabbatical Officers who will refer them through the management structure or to the Human Resources Committee, as appropriate.
 
 4. Union staff members may provide advice on their areas of expertise but shall not publicly express their personal views on policy or decisions of the Union.
 
-5. Paragraphs 3 and 4 apply to student casual staff whilst they are on duty.
+5. Bye-Laws 14.3 and 14.4 apply to student casual staff whilst they are on duty.
 
-##Section 13 - Complaints Procedure
+##Section 15 - Complaints Procedure
 
-###Internal Procedures
+### Internal Procedures
 
 1. In the first instance the complaint shall be brought to any Sabbatical Officer who shall reply within 10 working days.
 
@@ -1585,19 +1910,19 @@ Union Council may vote to move in to a private session. There will be one speech
 
 4. The standing committee shall respond within 1 working day after their next regularly scheduled meeting.
 
-###External Procedure
+### External Procedure
 
 5. The student must first address complaints via the internal procedures above.
 
 6. If the student remains unsatisfied and believes they have been treated unfairly by the Union, they will be referred to the procedures established by the Code of Practice between the Union and the College, copies of which are available from any Sabbatical Officer or the General Manager.
 
-##Section 14 - Disciplinary Procedures
+##Section 16 - Disciplinary Procedures
 
 1. The General Manager will convene a disciplinary hearing, within 10 working days where possible, following a report of behaviour that might be subject to disciplinary action.
 
-2. In extraordinary cases an emergency meeting of the Union Sabbatical Officers may be called.
+2. In extraordinary cases an emergency meeting of the Union Executive Committee may be called.
 
-3. Pending the disciplinary hearing any or all of the student's privileges as a member of the Union may be suspended by the Union Sabbatical Officers.
+3. Pending the disciplinary hearing any or all of the student's privileges as a member of the Union may be suspended by the Union Executive Committee, except the right of the member to stand in elections or otherwise partake in the democratic process.
 
 4. Alleged offences will normally be handled by Summary Disciplinary procedures; where the alleged offence is of a serious nature, the Sabbatical Officers may request that the matter be handled by panel procedures.
 
@@ -1615,29 +1940,29 @@ Union Council may vote to move in to a private session. There will be one speech
 
 6. If the student fails to respond to the initial correspondence before the hearing, or does not attend the hearing, then a further written notice will be sent. The suspension will remain in force until the disciplinary process is concluded.
 
-###Summary Hearing Procedure
+### Summary Hearing Procedure
 
 7. At least two Union Sabbatical Officers shall hear summary hearings. Union Sabbatical Officers who are witnesses shall remain absent from summary hearings to ensure they are available in the event of an appeal.
 
-8. The hearing shall be in private, although the defendant may be accompanied by a friend who does not have speaking rights at the hearing.
+8. The hearing shall be in private, although the defendant may be accompanied by a friend, who the defendant may authorise to speak at the hearing on his or her behalf.
 
 9. The Union Officers or the defendant may call witnesses as appropriate.
 
 10. The summary hearing shall proceed as follows:
 
-	1. A Union representative, appointed by the sabbatical officers, will state the charges brought against the defendant.
+	1. A Union representative, appointed by the Union Executive Committee, will state the charges brought against the defendant.
 
 	2. The Union representative and defendant shall introduce evidence and witnesses as appropriate.
 
-	3. The witnesses may be questioned by the Union representative and the panel as appropriate.
+	3. The witnesses may be questioned by the Union representative, the defendant and the panel as appropriate.
 
 	4. The disciplinary panel will then adjourn to closed session to determine the action to be taken.
 
 	5. The defendant will be notified orally of the decision taken by the panel and of their right to appeal.
 
-	6. A confidential record shall be kept of the hearings and, for such purposes of the Union; the Union General Manager will be in attendance.
+	6. A confidential record shall be kept of the hearings and the Union General Manager will be in attendance in order to make this record.
 
-	7. If the Summary Case is found to be proved, the Union Officers shall decide a penalty as per the guidelines for penalties set out in this section of the Byelaws.
+	7. If the Summary Case is found to be proved, the Union Officers shall decide a penalty as per the guidelines for penalties set out in this section of the Bye-Laws.
 
 	8. A letter detailing the penalty will be sent to the defendant by the General Manager within 3 working days of the hearing.
 
@@ -1645,11 +1970,11 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	10. The Union Officers shall report the conclusion of all Summary Cases to the Sabbatical Officers.
 
-	11. The defendant may appeal the Summary Decision at Union Council, as outlined in this section of the Byelaws.
+	11. The defendant may appeal the Summary Decision at Union Council, as outlined in this section of the Bye-Laws.
 
 	12. The defendant can at any time request that panel procedures be used.
 
-###Disciplinary panel procedure
+### Disciplinary panel procedure
 
 11. The disciplinary panel shall be composed of one Sabbatical Officer and one Non-Sabbatical Officer that have not been involved in the case through hearings or appeals to date, plus three representatives of other Students' Unions.
 
@@ -1679,7 +2004,7 @@ Union Council may vote to move in to a private session. There will be one speech
 
 20. The notification of the panel's decision shall include an attachment detailing the appeals procedure.
 
-###Penalties
+### Penalties
 
 21. Penalties available during the disciplinary panel and summary judgement include:
 
@@ -1689,17 +2014,15 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	3. Withdrawal of one or more privileges of Union membership.
 
-	4. Public apology from the defendant.
+	4. Payment for damage repair/replacement.
 
-	5. Payment for damage repair/replacement.
-
-	6. Another appropriate penalty, such as community service..
+	5. Another appropriate penalty, such as community service..
 
 22. A combination of the above may be proposed.
 
 23. The panel may also refer the matter to the Dean of Students (Welfare) or the head of the defendants department.
 
-24. The defendant has the right to appeal a summary judgement or Union disciplinary panel decision to the Union Council or to a Members' Meeting.
+24. The defendant has the right to appeal a summary judgement or Union disciplinary panel decision to the Union Council.
 
 25. The appeal to the Union Council must be made within 10 working days of receiving the written decision of the disciplinary panel.
 
@@ -1723,152 +2046,14 @@ Union Council may vote to move in to a private session. There will be one speech
 
 	4. Rehear the case at a later date as a whole body of Union Council.
 
-30. If the appellant is dissatisfied with the decision made by Union Council, a further appeal may be made to a Union Members' Meeting.
+30. If the appellant is dissatisfied with the decision made by Union Council, a further appeal may be made to a General Assembly.
 
-	1. A written notice of appeal must be made to the Democracy and Communications Officer who shall call a Members' Meeting for that purpose.
+	1. A written notice of appeal must be made to the Democracy and Communications Officer who shall either call an Extraordinary General Assembly for that purpose, or place it on the agenda of a scheduled General Assembly.
 
-31. The Emergency Members' Meeting can choose to:
+31. The Extraordinary General Assembly can choose to:
 
 	1. Uphold the decision of Union Council.
 
 	2. Overturn the decision of Union Council.
 
 32. If any of these procedures are not followed the defendant may refer the matter to the Chair of Union Council for a decision on whether it has prevented the defendant from a fair hearing. If decided that the defendant was denied a fair hearing the disciplinary decision shall be overturned.
-
-##Section 15 - Postgraduate Association
-
-1. When a PGA Forum Guidance Document exists, it shall govern the PGA and, in the event of any contradiction, shall take precedence over this section of the Bye-Laws (but no other sections).
-
-2. The Postgraduate Association (PGA) shall be an organisation within UCLU controlled by its members, through which they can campaign for and further their concerns, needs and interests.
-
-3. The members of the PGA shall include all current postgraduate UCLU members.
-
-4. PGA Forum meetings shall be the primary policy-making body of the PGA and shall be empowered to direct the PGA's officers and independent budget.
-
-5. The following PGA Officers shall be elected in the online cross-campus Autumn UCLU elections. Only postgraduates shall be eligible to vote:
-
-	1. PGA Secretary & Communications Officer
-
-	2. PGA Events & Entertainment Officer
-
-	3. Postgraduate Taught Education & Representation Officer
-
-		1. Only postgraduate taught students may vote
-
-	4. Postgraduate Research Education & Representation Officer
-
-		1.	Only postgraduate research students may vote
-
-6. Any PGA posts other than the Presidency that are left unfilled after the cross-campus elections may be filled by an election at a forum meeting.
-
-7. Elections by multi-member STV for 3 PGA Academic Officers shall occur at the first PGA Forum meeting following the Autumn Elections. Any Faculty Representative who is a postgraduate shall be eligible to stand.
-
-8. The PGA Executive Committee shall implement PGA policy and represent and serve PGA members between PGA Forum meetings. Committee meetings shall be called as necessary by the PGA President, who shall also chair them and lead the Committee. All Committee meetings shall be open to all PGA members. The Committee shall include:
-
-	1. The PGA President
-
-	2. The Medical and Postgraduate Students' Officer
-
-	3. All the PGA Officers described in this section of the Bye-Laws
-
-	4. SSEES Postgraduate Officer
-
-	5. Part-time Students' Officer
-
-	6. Mature Students' Officer
-
-9. Decisions of the Executive Committee shall be by democratic vote and shall only be valid when at least half of the Committee members with voting rights are present. Only those Executive Committee members who are postgraduate students shall have voting rights.
-
-10. A majority vote at a PGA Forum meeting shall be sufficient to overturn any PGA Executive Committee decision.
-
-11. The PGA shall invite UCL UCU to send a representative to all its Forum and Committee meetings for the purpose of liaising on relevant matters including, but not limited to, the concerns, needs and interests of postgraduates working for UCL, and coordination and solidarity between the organisations.
-
-12. All PGA officers shall:
-
-	1. Be current postgraduate students at UCL
-
-	2. Uphold and seek to further PGA policy.
-
-	3. Participate in and support the work of the PGA in general.
-
-	4. Promote to postgraduate students participation in the democratic structures open to them.
-
-13. The PGA President shall:
-
-	1. Lead the representation and campaigning work of the PGA, addressing all relevant bodies including the Graduate School, College, the University of London, local and national government.
-
-	2. Represent PGA policy and the needs and concerns of PGA members within UCLU, ULU, NUS, and any other organisations to which UCLU or the PGA affiliates, including acting as UCLU's delegate to NUS Postgraduate Section Conference.
-
-	3. In cooperation with the Postgraduate Education & Representation Officers, to liaise with the UCL UCU and other appropriate trade unions on all relevant issues including the concerns, needs and interests of postgraduates working for UCL.
-
-	4. Be responsible for the organisation of Forum meetings, with support from UCLU staff where required.
-
-	5. Ensure forum meetings are Chaired and run smoothly and fairly. During policy debates and where appropriate, the President should delegate Chairing responsibility to another appropriate UCLU officer or PGA member to ensure the Chair can remain non-partisan while conducting the business of the meeting.
-
-	6. Produce an agenda for the forum meetings, based on submissions from students.
-
-	7. To coordinate the activities of the governing committee with the support of the Sabbatical Officer responsible for Postgraduate Students.
-
-14. The PGA Secretary & Communications Officer shall:
-
-	1. Be responsible for ensuring that there is an accurate note of the proceedings of the forum meetings, as well as its timely circulation after the meeting.
-
-	2. Support the President's organisation of the Forum meetings, including the production and circulation of the Forum agendas.
-
-	3. Facilitate communication between the forum and all students. With the support of UCLU staff where appropriate, the Officer shall be responsible for:
-
-		1. The PGA email bulletin
-
-		2. The PGA's social media presence
-
-		3. The PGA's website
-
-15. The Postgraduate Education & Representation Officers (Taught and Research) shall:
-
-	1. Be taught and research postgraduate students respectively.
-
-	2. Be the equal Deputy Presidents of the PGA and perform the duties of the PGA President when he or she is unable.
-
-	3. In cooperation with the Postgraduate Students' Officer and in liaison with relevant UCLU officers and forums, facilitate representation and campaigning regarding the particular needs and concerns of taught and research postgraduate students respectively. In particular addressing educational, funding and welfare matters for postgraduate students, in liaison with the UCLU Education & Campaigns Officer, Education Officer, Education Forum and Welfare and International Officer.
-
-	4. Organise and support Postgraduate StARs and ensure that the feedback they elicit from students is taken to relevant Graduate School, College and UCLU Committees and acted upon.
-
-16. The Postgraduate Research Education & Representation Officer shall also:
-
-	1. Liaise with UCL UCU on matters of common concern, including but not limited to research policy and the concerns, needs and interests of research postgraduates working for UCL or other universities.
-
-17. The PGA Events & Entertainment Officer shall:
-
-	1. Facilitate the development and maintenance of a postgraduate student community by organising regular activities, entertainment and social events for postgraduates.
-
-	2. Liaise with the Student Activities Officer and Activities Officer to ensure UCLU's provision of activities, clubs and societies are appropriate and accessible to postgraduate students.
-
-	3. Liaise with UCLU's Entertainments Department regarding entertainments for the postgraduate student community.
-
-18. PGA Academic Officers shall
-
-	1. Help the Postgraduate Education & Representation Officers to organise and support postgraduate StARs.
-
-	2. Be a line of communication between the postgraduate StARs and the PGA.
-
-	3. Support & contribute to the activities of the PGA Executive Committee in general.
-
-##Section 16 - Faculty and Halls Assemblies
-
-1. Faculty Assemblies and Halls Assemblies shall be open meetings to enable the students of a particular Faculty or Halls to:
-
-	1. Organise and coordinate campaigning relating to their Faculty or Halls,
-
-	2. Raise issues affecting them as a member of their Faculty or Halls,
-
-	3. Ask questions of, and hear reports from, their Faculty Representative(s) or Halls Representative.
-
-2. Faculty Representatives shall be responsible for organising and facilitating Faculty Assemblies, and shall ensure that a record is made of the discussions and action points. The Education and Campaigns Officer and the Education Officer shall help and advise Faculty Representatives in this task.
-
-3. Halls Representatives shall be responsible for organising and facilitating Halls Assemblies, and shall ensure that a record is made of the discussions and action points. The Welfare and International Officer and the Community Officer shall help and advise Halls Representatives in this task.
-
-4. A Faculty Assembly may be called by any Faculty Representative or by the Education and Campaigns Officer or the Education Officer. The Faculty Representatives in a particular faculty must call a Faculty Assembly within five working days of a request from at least 5 students of their Faculty.
-
-5. A Halls Assembly may be called by any Halls Representative or by the Welfare and International Officer or the Community Officer. A Halls Representative must call a Halls Assembly within five working days of a request from at least 5 students from their Halls.
-
-6. Faculty Assemblies may include all students within a Faculty, or alternatively issues affecting undergraduates, taught postgraduates and research postgraduates may be addressed in specific Faculty Assemblies for specific groups.
